@@ -1,19 +1,29 @@
 import React from "react";
 import styled from "styled-components";
 
+import { HiOutlineSearch } from "react-icons/hi";
+import { FiMenu } from "react-icons/fi";
+import { IoAlertCircleOutline, IoAppsSharp, IoNotificationsOutline, IoPersonCircle } from "react-icons/io5";
 import Logo from "../assets/header/Logo.png";
 
 const Header = () => {
     return (
         <Wrapper>
             <Set>
+                <FiMenu className="icon" />
                 <LogoBtn src={Logo}/>
             </Set>
             <Search>
                 <Input type="text" placeholder="검색"/>
+                <HiOutlineSearch className="search-button" />
+                <Button />
+                <Button />
             </Search>
             <Set>
-
+                <IoAlertCircleOutline className="icon" />
+                <IoAppsSharp className="icon" />
+                <IoNotificationsOutline className="icon" />
+                <IoPersonCircle className="icon" />
             </Set>
         </Wrapper>
     )
@@ -31,14 +41,27 @@ const Wrapper = styled.div`
     padding: 0 20px;
     height: 70px;
     z-index: 1;
+
+    .icon {
+        width: 24px;
+        height: 24px;
+        cursor: pointer;
+    }
+
 `;
 
 const Set = styled.div`
     display: flex;
+    gap: 25px;
 `;
 
+
 const LogoBtn = styled.img`
-    width: 10vw;
+    width: 100px;
+    height: auto;
+`;
+
+const Button = styled.img`
 `;
 
 const Search = styled.div`
@@ -47,12 +70,23 @@ const Search = styled.div`
     align-items: center;
     width: 50%;
     margin: 0 25px;
+
+    .search-button {
+        width: 24px;
+        height: 24px;
+        padding: 6px 20px;
+        border: 1px solid #d3d3d3;
+        background-color: #f9f9f9;
+        cursor: pointer;
+
+    }
 `;
 
 const Input = styled.input`
     flex: 1;
-    height: 30px;
+    height: 36px;
     border: 1px solid gainsboro;
+    border-right: none;
     outline: none;
     padding: 0 6px;
 
