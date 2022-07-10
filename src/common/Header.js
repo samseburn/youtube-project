@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
-import { HiOutlineSearch } from "react-icons/hi";
 import { FiMenu } from "react-icons/fi";
+import { HiOutlineSearch } from "react-icons/hi";
 import { IoAlertCircleOutline, IoAppsSharp, IoNotificationsOutline, IoPersonCircle } from "react-icons/io5";
 import Logo from "../assets/header/Logo.png";
 
@@ -10,7 +10,9 @@ const Header = () => {
     return (
         <Wrapper>
             <Set>
-                <FiMenu className="icon" />
+                <FiMenu className="icon" 
+                    // onClick sidebar toggle
+                />
                 <LogoBtn src={Logo}/>
             </Set>
             <Search>
@@ -38,7 +40,7 @@ const Wrapper = styled.div`
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 0 20px;
+    padding: 0 4px;
     height: 70px;
     z-index: 1;
 

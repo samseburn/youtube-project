@@ -15,8 +15,9 @@ const Layout = ({active, content}) => {
 }
 
 const Wrapper = styled.div`
+
     .contents {
-        background-color: black;
+        background-color: #efefef;
         margin-left: 240px;
         display: flex;
         flex: 1;
