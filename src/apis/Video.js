@@ -1,4 +1,4 @@
-import youtube from "./youtube";
+import youtube from "./Youtube";
 
 const getVideoSearch = async (params) => {
   const { data } = await youtube.get("/search", {

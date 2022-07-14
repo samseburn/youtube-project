@@ -1,9 +1,12 @@
 import { Route, Routes }  from 'react-router-dom';
+
 import Home from './pages/Home';
 import Search from './pages/Search';
 import Detail from './pages/Detail';
-import './App.css';
 import Layout from './common/Layout';
+
+import './App.css';
+
 
 function App() {
   return (
@@ -17,5 +20,6 @@ function App() {
       </Routes>
   );
 }
+
 
 export default App;
