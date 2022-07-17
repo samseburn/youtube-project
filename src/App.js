@@ -1,4 +1,4 @@
-import { Route, Routes }  from 'react-router-dom';
+import { BrowserRouter, Route, Routes }  from 'react-router-dom';
 
 import Home from './pages/Home';
 import Search from './pages/Search';
@@ -6,6 +6,7 @@ import Detail from './pages/Detail';
 import Layout from './common/Layout';
 
 import './App.css';
+import { getVideoSearch } from "./apis/videos";
 
 
 function App() {
@@ -15,9 +16,14 @@ function App() {
         <Route 
           path="/" 
           element={<Layout content={<Home />}/>} />
-        <Route path="/" element={<Search />} />
-        <Route path="/" element={<Detail />} />
+        <Route 
+          path="/" 
+          element={<Layout content={<Detail />}/>} />
+        <Route 
+          path="/" 
+          element={<Layout content={<Search />}/>} />
       </Routes>
+    
   );
 }
 

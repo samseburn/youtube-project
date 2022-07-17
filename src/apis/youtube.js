@@ -14,7 +14,7 @@ const youtube = axios.create({
 });
 
 
-export default youtube
+export { youtube };
 
 // api 호출 시 주의 사항 
 // youtub 검색 api 이용 시 한글로 검색이 안 될 떄

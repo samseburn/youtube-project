@@ -1,10 +1,15 @@
 import React from "react";
 import styled from "styled-components";
+import VideoList from "../component/Home/VideoList";
+
+// import VideoList from "../component/Home/VideoList";
 
 
 const  Home = () => {
     return (
-        <Wrapper></Wrapper>
+        <Wrapper>
+           <VideoList />
+        </Wrapper>
     )
 }
 

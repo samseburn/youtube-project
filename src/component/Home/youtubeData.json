@@ -1,0 +1,1520 @@
+{
+
+  "data": [
+    {
+      "kind": "youtube#videoListResponse",
+      "etag": "NzNYv94zvNSE8d70I_RJpkDup5c",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "Xy4RS_LZntoNyvmniJHaKIel5r4",
+          "id": "QmpTkkaKYSU",
+          "snippet": {
+            "publishedAt": "2022-07-15T03:59:09Z",
+            "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+            "title": "j-hope '방화 (Arson)' Official MV",
+            "description": "j-hope '방화 (Arson)' Official MV\n\nCredits:  \nProduction : Boring Studio\nDirector : Lee Suho\nExecutive Producer : Lee Seokjun\nAssistant Director. : Jeon Sehoon\nProduction Assistant : Kwon Je-heon , Park Jihoon\n\nD.O.P : Lee Jinhyuk\nFocus Puller : Hong Kang\n2nd A.C : Ryu Seunggyu\nDIT : Jeon Juhwan\n3rd A.C : Hong Kyungui\n\nGaffer : Oh Jonghwan\n1st : Kim Hyunggyun\n2nd : Yu Jaejun, Choi Beomseok\n3rd : Choi Hyungeon, Jeong Heewook\n4th : Yoon Jaewoong\n\nArt Director : NOMESS\nTeam Leader : Lim Gyuseong\nArt Team : Lee Jungsik, Kim Chaejeong, Go Juhwan\nPaint : Mural Life\n\nSpecial Effect  : DRAGON\nDirector : Park Choulyoung\n1st : Oh Wonjun, Park Jaesung\n2nd : Seol Chongyoung\n3rd : Park Youngmin\n\nStunt : Best Stunt Team\nStunt Coordinator : Park Sungho\nStunt Man : Oh Myeunghoon, Cho Minkyo\n\nMagnum : servicevisionkorea\nEquip : Scorpio Techno Crane 45ft\nHead Tech: Choi Taehyun\nCrane Oper: Woo Jisoo\nAssist: Kim Hakseo, Lee Byumki\n\nDRONE\nOperator : Lee Jaehoon, Jung Soonwoo\n\nMatch move & Compositing : Kim Yeongseok\nFX : Jeon Seungwoo, Lee Minkyu\n3D VFX : AQUON\n2D VFX : Kim Hanbin\n\nVFX : Kim Sehwang (AVLE)\nVFX Assistant : Lee Jaehee\n\nSpecial Make-up\nDirector : Oh Seongseok\nAssistant : Lee Byunghyun, Choi Yuri\n\nSupporting Team\nTeam Leader : Lee Kyoungjm\nMemeber : Won Dongwook,Won Dongsuk, Moon Isak,Kim Youngjin\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n#jhope_Arson #JackInTheBox #jhope #제이홉 #jhope_방화",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/QmpTkkaKYSU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/QmpTkkaKYSU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/QmpTkkaKYSU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "HYBE LABELS",
+            "tags": [
+              "HYBE",
+              "HYBE LABELS",
+              "하이브",
+              "하이브레이블즈"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "ko",
+            "localized": {
+              "title": "j-hope '방화 (Arson)' Official MV",
+              "description": "j-hope '방화 (Arson)' Official MV\n\nCredits:  \nProduction : Boring Studio\nDirector : Lee Suho\nExecutive Producer : Lee Seokjun\nAssistant Director. : Jeon Sehoon\nProduction Assistant : Kwon Je-heon , Park Jihoon\n\nD.O.P : Lee Jinhyuk\nFocus Puller : Hong Kang\n2nd A.C : Ryu Seunggyu\nDIT : Jeon Juhwan\n3rd A.C : Hong Kyungui\n\nGaffer : Oh Jonghwan\n1st : Kim Hyunggyun\n2nd : Yu Jaejun, Choi Beomseok\n3rd : Choi Hyungeon, Jeong Heewook\n4th : Yoon Jaewoong\n\nArt Director : NOMESS\nTeam Leader : Lim Gyuseong\nArt Team : Lee Jungsik, Kim Chaejeong, Go Juhwan\nPaint : Mural Life\n\nSpecial Effect  : DRAGON\nDirector : Park Choulyoung\n1st : Oh Wonjun, Park Jaesung\n2nd : Seol Chongyoung\n3rd : Park Youngmin\n\nStunt : Best Stunt Team\nStunt Coordinator : Park Sungho\nStunt Man : Oh Myeunghoon, Cho Minkyo\n\nMagnum : servicevisionkorea\nEquip : Scorpio Techno Crane 45ft\nHead Tech: Choi Taehyun\nCrane Oper: Woo Jisoo\nAssist: Kim Hakseo, Lee Byumki\n\nDRONE\nOperator : Lee Jaehoon, Jung Soonwoo\n\nMatch move & Compositing : Kim Yeongseok\nFX : Jeon Seungwoo, Lee Minkyu\n3D VFX : AQUON\n2D VFX : Kim Hanbin\n\nVFX : Kim Sehwang (AVLE)\nVFX Assistant : Lee Jaehee\n\nSpecial Make-up\nDirector : Oh Seongseok\nAssistant : Lee Byunghyun, Choi Yuri\n\nSupporting Team\nTeam Leader : Lee Kyoungjm\nMemeber : Won Dongwook,Won Dongsuk, Moon Isak,Kim Youngjin\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n#jhope_Arson #JackInTheBox #jhope #제이홉 #jhope_방화"
+            },
+            "defaultAudioLanguage": "ko"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "QcuS4xCZOrsyPik3jD2Yl8sywsU",
+          "id": "KsrKWyUT2zI",
+          "snippet": {
+            "publishedAt": "2022-07-15T16:00:11Z",
+            "channelId": "UCj2GTFekdV3EUsTVN8oaEqA",
+            "title": "Kevin Gates - 7:12pm (Freestyle)",
+            "description": "Kevin Gates - \n\n'KHAZA' OUT NOW!\nStream/Download: https://kevingates.lnk.to/khaza\n\nSee Kevin live!\nhttps://www.kvngates.com/tour\n\nGet your merchandise here! \nsmarturl.it/kevingates.store\n\nFollow Kevin Gates:\nInstagram: http://instagram.com/iamkevingates\nTwitter: http://twitter.com/iamkevingates\nFacebook: https://facebook.com/kvngates\nSoundcloud: https://soundcloud.com/kevingates\nWebsite: http://www.kvngates.com\n\nSubscribe to Kevin’s channel for all the latest official music videos, official audio, albums, behind the scenes and more!\nhttps://kevingates.lnk.to/Subscribe\n\n\nThe official YouTube channel of Bread Winners' Association/Atlantic Records Artist Kevin Gates.\n\n\nKevin Gates is a hip-hop music heavyweight with hits like \"2 Phones\", \"Really Really\", \"Satellites\", \"Out The Mud\", “Posed To Be In Love”, “I Don’t Get Tired” and more. Originally building his name on the back of classic mixtapes such as The Luca Brasi Story, Stranger Than Fiction, By Any Means, Luca Brasi 2, and Murder For Hire II, Kevin's iconic catalog also includes benchmark albums like Islah and I'm Him, which combine his hard-hitting delivery and cinematic storytelling with an emotional honesty and veteran's wisdom. A multi-platinum rapper, singer and entrepreneur, Kevin continues to break new ground with each move, carving out his musical legacy and redefining what it means to be an entertainment mogul. \n\n#KevinGates #712pm #Khaza",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/KsrKWyUT2zI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/KsrKWyUT2zI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/KsrKWyUT2zI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/KsrKWyUT2zI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/KsrKWyUT2zI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "kevingatesTV",
+            "tags": [
+              "kevin gates",
+              "kevin",
+              "gates",
+              "atlantic",
+              "atlantic records",
+              "how we livin",
+              "2 phones",
+              "by any means 2",
+              "BWA",
+              "BreadWinnersAssociation",
+              "OfficialBWA",
+              "Kevin Gates Only The Generals Gon Understand II",
+              "Only The Generals Gon Understand II",
+              "Kevin Gates mixtape",
+              "Kevin Gates Only The Generals Gon Understand II mixtape",
+              "Only The Generals Gon Understand II mixtape",
+              "Only The Generals Gon Understand",
+              "Only The Generals Gone Understand",
+              "Kevin Gates Puerto Rico",
+              "Puerto Rico",
+              "Kevin Gates Puerto Rican"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Kevin Gates - 7:12pm (Freestyle)",
+              "description": "Kevin Gates - \n\n'KHAZA' OUT NOW!\nStream/Download: https://kevingates.lnk.to/khaza\n\nSee Kevin live!\nhttps://www.kvngates.com/tour\n\nGet your merchandise here! \nsmarturl.it/kevingates.store\n\nFollow Kevin Gates:\nInstagram: http://instagram.com/iamkevingates\nTwitter: http://twitter.com/iamkevingates\nFacebook: https://facebook.com/kvngates\nSoundcloud: https://soundcloud.com/kevingates\nWebsite: http://www.kvngates.com\n\nSubscribe to Kevin’s channel for all the latest official music videos, official audio, albums, behind the scenes and more!\nhttps://kevingates.lnk.to/Subscribe\n\n\nThe official YouTube channel of Bread Winners' Association/Atlantic Records Artist Kevin Gates.\n\n\nKevin Gates is a hip-hop music heavyweight with hits like \"2 Phones\", \"Really Really\", \"Satellites\", \"Out The Mud\", “Posed To Be In Love”, “I Don’t Get Tired” and more. Originally building his name on the back of classic mixtapes such as The Luca Brasi Story, Stranger Than Fiction, By Any Means, Luca Brasi 2, and Murder For Hire II, Kevin's iconic catalog also includes benchmark albums like Islah and I'm Him, which combine his hard-hitting delivery and cinematic storytelling with an emotional honesty and veteran's wisdom. A multi-platinum rapper, singer and entrepreneur, Kevin continues to break new ground with each move, carving out his musical legacy and redefining what it means to be an entertainment mogul. \n\n#KevinGates #712pm #Khaza"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "2hPYDcg0ui1Q5sK5Ka_Mds9bgn8",
+          "id": "lTLN9raIwfQ",
+          "snippet": {
+            "publishedAt": "2022-07-15T12:45:05Z",
+            "channelId": "UCCE5NVlm0FhbunMMBT48WAw",
+            "title": "So I Made Minecraft Satisfying...",
+            "description": "THANKS REC ROOM FOR SPONSORING! GET IT HERE:\nhttps://recroom.sng.link/Da56h/w54n\n\nTwitch (I STREAM A LOT SOMETIMES): https://www.twitch.tv/fundy\nTwitter (FUNNY STUFF): https://twitter.com/fundylive\nDiscord: https://discord.gg/fundy\n\n★  Did you know subscribing on YouTube is free? Pretty neat, you should check that out.  ★\n\nEditor: https://twitter.com/krayestation\n\nMusic:\nOutro music https://www.youtube.com/watch?v=Hu6cW0sD5Iw\n\n#Fundy #Minecraft #satisfying",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lTLN9raIwfQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lTLN9raIwfQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lTLN9raIwfQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Fundy",
+            "tags": [
+              "fundage",
+              "fundy",
+              "itsfundy",
+              "fundy minecraft",
+              "minecraft fundy",
+              "fundy satisfying",
+              "satisfying fundy",
+              "minecraft satisfying",
+              "I made minecraft satisfying",
+              "satisfying",
+              "satisfying minecraft machines",
+              "minecraft is satisfying",
+              "mumbo jumbo",
+              "minecraft redstone",
+              "minecraft programming",
+              "minecraft mods",
+              "mods for minecraft",
+              "minecraft plugins",
+              "fundy mod",
+              "fundy plugin",
+              "fundy mods"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "So I Made Minecraft Satisfying...",
+              "description": "THANKS REC ROOM FOR SPONSORING! GET IT HERE:\nhttps://recroom.sng.link/Da56h/w54n\n\nTwitch (I STREAM A LOT SOMETIMES): https://www.twitch.tv/fundy\nTwitter (FUNNY STUFF): https://twitter.com/fundylive\nDiscord: https://discord.gg/fundy\n\n★  Did you know subscribing on YouTube is free? Pretty neat, you should check that out.  ★\n\nEditor: https://twitter.com/krayestation\n\nMusic:\nOutro music https://www.youtube.com/watch?v=Hu6cW0sD5Iw\n\n#Fundy #Minecraft #satisfying"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "O3iqNI4Rce712vqfrstdCTGkJ7A",
+          "id": "cGJIl1TM074",
+          "snippet": {
+            "publishedAt": "2022-07-15T04:00:09Z",
+            "channelId": "UCCY_8y1FjtOegxKB4s2bWqw",
+            "title": "Bella Poarch - Dolls (Official Music Video)",
+            "description": "DOLLS. OUT NOW😈 http://bellapoarch.lnk.to/Dolls\n\nFollow Bella Poarch:\nhttps://www.tiktok.com/@bellapoarch\nhttps://www.instagram.com/bellapoarch\nhttps://www.facebook.com/BellaPoarch\nhttps://twitter.com/bellapoarch\n\nDirector: Andrew Donoho\n\nSTARRING:\nValkyrae\nDream\nLudwig\nChloe Cherry\nHasan Piker\nMizkif\nSykkuno\nMadison Beer\nLarray\nBretman Rock\nMiyoung\nGrimes\n\nCREDITS: \nProducer - Valerie Bush\nExecutive Producer - Ryan Huffman\nProduction Company - Huffman Creative\nHead of Production, Post Producer - Katie Sarrels\nProduction Manager - Julio Mata Jr.\nProduction Coordinator - Chris Fish\nExecutive Assistant - Niko Vernic\nLabel - Warner Records\nCommissioner - Devin Sarno\nEVP of Creative - Norman Wonderly\nMarketing Director - Veronica Sanjines\nBella Poarch Management - Danny Kang, Aryan Mahyar, Gabriella Pulley, Francisco Montiel \nDance Choreographer/Second Unit Director - Monika Felice Smith\nDirectory of Photography - Nick Bupp\n1st AD - Michael Estrella\nGaffer - Kevin Miller\nKey Grip - Alex Picasso\nKey Hair - Tiffany Suzuki\nKey Makeup - Manu Horn\nStylist - Krissie Torgerson\nSFX Makeup Artist - Sasha Glasser\nProduction Designer - John Richoux\nArt Director - Nick DeCell\nBella Poarch Makeup - Faith Swain-Nachor\nBella Poarch Hair - Donovan Domingo-Pa\nFight Choreographer - Michaela McAllister\nGrimes Stunt Double - Claire Hoogenboom\nBella Poarch Stunt Double - Lee Chesely\nSFX Foreman - Art “Tommy” Haynes\nVFX  - Denis Strahhov and Denhov Visuals\nEditors - Andrew Donoho, Sub Urban\nColor - Matt Osborne at Company 3\nSound Design & Mix - Christian Stropko\n\nLYRICS:\nOh, don't I look nice, batting my eyes, isn't it pure perfection? \nCute, think I'm polite, stereotype, got your full attention \nThink that you can play with me, you better watch your back \nThe last thing that you'll hear will be my laugh (Haha, yeah)\n \n'Cause, baby, dolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will\n \nHeels, madе out of steel, how does it feel to be walked all ovеr? \nNails leaving a trail, got 'em pigtails, blood drips down your shoulder \nBaby, there's power in numbers, better warn all of your friends \nYou're down to less than an hour, we all know how this ends\n \nDolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will - GO!\n\nSugar and spice and everything nice \nNo, that's not what we're made of \nVenom and ice, tequila that bites \nGo ahead and pray 'cause\n\n'Cause, baby, dolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will\n\n#BellaPoarch #Dolls\n\nPresented by Cash App. Download Cash App and drop your $cashtag in the comments for a chance to win some money.\nVoid where proh. No purch nec. Ends 7/15. bit.ly/dollas4dolls partner",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cGJIl1TM074/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cGJIl1TM074/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cGJIl1TM074/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/cGJIl1TM074/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/cGJIl1TM074/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Bella Poarch",
+            "tags": [
+              "bella poarch",
+              "bella porch",
+              "build a bitch",
+              "bella poarch tiktok",
+              "tiktok songs",
+              "you cant build a bitch",
+              "sub urban",
+              "valkyrae",
+              "bretman rock",
+              "larray",
+              "bella poarch music video",
+              "bella poarch tiktoks",
+              "bella poarch new song",
+              "tiktok singers",
+              "tiktok musicians",
+              "Sykkuno",
+              "madison beer",
+              "dream",
+              "dolls kill",
+              "bella poarch dolls",
+              "cause baby dolls kill",
+              "cuz baby dolls kill",
+              "dont provoke us or we will",
+              "bitter as much as were sweet",
+              "might be pretty but were still"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Bella Poarch - Dolls (Official Music Video)",
+              "description": "DOLLS. OUT NOW😈 http://bellapoarch.lnk.to/Dolls\n\nFollow Bella Poarch:\nhttps://www.tiktok.com/@bellapoarch\nhttps://www.instagram.com/bellapoarch\nhttps://www.facebook.com/BellaPoarch\nhttps://twitter.com/bellapoarch\n\nDirector: Andrew Donoho\n\nSTARRING:\nValkyrae\nDream\nLudwig\nChloe Cherry\nHasan Piker\nMizkif\nSykkuno\nMadison Beer\nLarray\nBretman Rock\nMiyoung\nGrimes\n\nCREDITS: \nProducer - Valerie Bush\nExecutive Producer - Ryan Huffman\nProduction Company - Huffman Creative\nHead of Production, Post Producer - Katie Sarrels\nProduction Manager - Julio Mata Jr.\nProduction Coordinator - Chris Fish\nExecutive Assistant - Niko Vernic\nLabel - Warner Records\nCommissioner - Devin Sarno\nEVP of Creative - Norman Wonderly\nMarketing Director - Veronica Sanjines\nBella Poarch Management - Danny Kang, Aryan Mahyar, Gabriella Pulley, Francisco Montiel \nDance Choreographer/Second Unit Director - Monika Felice Smith\nDirectory of Photography - Nick Bupp\n1st AD - Michael Estrella\nGaffer - Kevin Miller\nKey Grip - Alex Picasso\nKey Hair - Tiffany Suzuki\nKey Makeup - Manu Horn\nStylist - Krissie Torgerson\nSFX Makeup Artist - Sasha Glasser\nProduction Designer - John Richoux\nArt Director - Nick DeCell\nBella Poarch Makeup - Faith Swain-Nachor\nBella Poarch Hair - Donovan Domingo-Pa\nFight Choreographer - Michaela McAllister\nGrimes Stunt Double - Claire Hoogenboom\nBella Poarch Stunt Double - Lee Chesely\nSFX Foreman - Art “Tommy” Haynes\nVFX  - Denis Strahhov and Denhov Visuals\nEditors - Andrew Donoho, Sub Urban\nColor - Matt Osborne at Company 3\nSound Design & Mix - Christian Stropko\n\nLYRICS:\nOh, don't I look nice, batting my eyes, isn't it pure perfection? \nCute, think I'm polite, stereotype, got your full attention \nThink that you can play with me, you better watch your back \nThe last thing that you'll hear will be my laugh (Haha, yeah)\n \n'Cause, baby, dolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will\n \nHeels, madе out of steel, how does it feel to be walked all ovеr? \nNails leaving a trail, got 'em pigtails, blood drips down your shoulder \nBaby, there's power in numbers, better warn all of your friends \nYou're down to less than an hour, we all know how this ends\n \nDolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will - GO!\n\nSugar and spice and everything nice \nNo, that's not what we're made of \nVenom and ice, tequila that bites \nGo ahead and pray 'cause\n\n'Cause, baby, dolls kill, don't provoke us or we will \nPush you downhill, might be pretty, but we're still \nBitter as much as we're sweet, knife hidden under the sheets \nBaby, dolls kill, don't provoke us or we will\n\n#BellaPoarch #Dolls\n\nPresented by Cash App. Download Cash App and drop your $cashtag in the comments for a chance to win some money.\nVoid where proh. No purch nec. Ends 7/15. bit.ly/dollas4dolls partner"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "jF-9R3URpDOirDEV0cvTqHR7Gq8",
+          "id": "Hbb5GPxXF1w",
+          "snippet": {
+            "publishedAt": "2022-07-15T03:58:10Z",
+            "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+            "title": "ITZY “SNEAKERS” M/V @ITZY",
+            "description": "ITZY “SNEAKERS” M/V\n\n👑 𝐈𝐓𝐙𝐘 \"𝐂𝐇𝐄𝐂𝐊𝐌𝐀𝐓𝐄\" \nhttps://itzy.lnk.to/CHECKMATE\n\n👑 ALBUM RELEASE\n2022.7.15 FRI 1PM(KST) | 0AM(EST)\n\nITZY \"SNEAKERS\" Listen here:\n🎬 YouTube https://youtu.be/Hbb5GPxXF1w\n🎧 Spotify https://spoti.fi/3PqxViz\n🎧 Apple Music https://apple.co/3Pxk2PM\n🎧 MelOn http://kko.to/7YEiYAriX\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #CHECKMATE #SNEAKERS\n\nCopyrights 2022 ⓒ JYP Entertainment. All Rights Reserved",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Hbb5GPxXF1w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Hbb5GPxXF1w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Hbb5GPxXF1w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "JYP Entertainment",
+            "tags": [
+              "JYP Entertainment",
+              "JYP",
+              "ITZY",
+              "있지",
+              "イッチ",
+              "예지",
+              "리아",
+              "류진",
+              "채령",
+              "유나",
+              "YEJI",
+              "LIA",
+              "RYUJIN",
+              "CHAERYEONG",
+              "YUNA",
+              "イェジ",
+              "リア",
+              "リュジン",
+              "チェリョン",
+              "ユナ",
+              "อิทจี",
+              "เยจี",
+              "ลีอา",
+              "รยูจิน",
+              "แชรยอง",
+              "ยูนา",
+              "ITZY VIDEOS",
+              "ITZY BEHIND",
+              "MV",
+              "ITZY MV",
+              "ITZY MUSIC VIDEOS",
+              "Teaser",
+              "ITZY Teaser",
+              "ITZY VLOG",
+              "VLOG",
+              "IT'z Different",
+              "IT'z ICY",
+              "IT'z ME",
+              "Not Shy",
+              "GUESS WHO",
+              "CRAZY IN LOVE",
+              "DALLA DALLA",
+              "ICY",
+              "WANNABE",
+              "마.피.아.IN THE MORNING",
+              "LOCO",
+              "ITZY?ITZY!",
+              "ITZY CHECKMATE",
+              "CHECKMATE",
+              "ITZY COMEBACK",
+              "SNEAKERS"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "ITZY “SNEAKERS” M/V @ITZY",
+              "description": "ITZY “SNEAKERS” M/V\n\n👑 𝐈𝐓𝐙𝐘 \"𝐂𝐇𝐄𝐂𝐊𝐌𝐀𝐓𝐄\" \nhttps://itzy.lnk.to/CHECKMATE\n\n👑 ALBUM RELEASE\n2022.7.15 FRI 1PM(KST) | 0AM(EST)\n\nITZY \"SNEAKERS\" Listen here:\n🎬 YouTube https://youtu.be/Hbb5GPxXF1w\n🎧 Spotify https://spoti.fi/3PqxViz\n🎧 Apple Music https://apple.co/3Pxk2PM\n🎧 MelOn http://kko.to/7YEiYAriX\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #CHECKMATE #SNEAKERS\n\nCopyrights 2022 ⓒ JYP Entertainment. All Rights Reserved"
+            },
+            "defaultAudioLanguage": "ko"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "l2RxqQgocLqF9A4Q-p44POAhywE",
+          "id": "P5vn5EsAuOs",
+          "snippet": {
+            "publishedAt": "2022-07-15T12:00:12Z",
+            "channelId": "UCIVSqoHCUN1XdEpiVItxfoQ",
+            "title": "I Built a WOOD FACTORY in Minecraft Hardcore",
+            "description": "I Built an AUTOMATIC WOOD FARM in Minecraft Hardcore\n\n🔥 Watch From EPISODE #1: https://www.youtube.com/watch?v=EDYifz45dhU&list=PLqyCqmSEa8cTmHfheGsE70w9uzcas3BFH\n\n📺 Watch my LAST EPISODE: https://youtu.be/FsuvimkuckQ\n(Building Automatic Farms in Minecraft Hardcore)\n\n➖➖➖➖➖➖➖➖➖\n\n⭐ FOLLOW ME:\n\n🐤 » Twitter: https://twitter.com/aCookieGod\n\n📷 » Instagram: https://www.instagram.com/aCookieGod/\n\n💬 » Discord Server: https://discord.gg/exM3TcKAme\n\n➖➖➖➖➖➖➖➖➖\n\n》Automatic Tree Farm by @ilmango \n》All music by Kevin Macleod is licensed under a Creative Commons Attribution 4.0 license.\nLink to Artist: https://incompetech.com/music/\n\nThis MINECRAFT HARDCORE SERIES is inspired by Wadzee, MumboJumbo, Grian, and sandiction! Instead of being the Hermitcraft SMP, this series is similar to a MINECRAFT CHALLENGE video because it is HARDCORE MINECRAFT! This is similar to my 100 DAYS in MINECRAFT HARDCORE but better! :)\n\nI Built a WOOD FACTORY in Minecraft Hardcore\n\n➖➖➖➖➖➖➖➖➖\n\n#minecraft #but #hardcore",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/P5vn5EsAuOs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/P5vn5EsAuOs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/P5vn5EsAuOs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "aCookieGod",
+            "tags": [
+              "acookiegod",
+              "a cookie god",
+              "a cookie god minecraft",
+              "cookie minecraft",
+              "minecraft cookie",
+              "minecraft cookie god",
+              "cookie god",
+              "acookiegod series",
+              "acookiegod hardcore",
+              "wood factory",
+              "wood farm",
+              "automatic wood farm",
+              "minecraft hardcore",
+              "minecraft wood farm",
+              "hardcore minecraft",
+              "minecraft"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I Built a WOOD FACTORY in Minecraft Hardcore",
+              "description": "I Built an AUTOMATIC WOOD FARM in Minecraft Hardcore\n\n🔥 Watch From EPISODE #1: https://www.youtube.com/watch?v=EDYifz45dhU&list=PLqyCqmSEa8cTmHfheGsE70w9uzcas3BFH\n\n📺 Watch my LAST EPISODE: https://youtu.be/FsuvimkuckQ\n(Building Automatic Farms in Minecraft Hardcore)\n\n➖➖➖➖➖➖➖➖➖\n\n⭐ FOLLOW ME:\n\n🐤 » Twitter: https://twitter.com/aCookieGod\n\n📷 » Instagram: https://www.instagram.com/aCookieGod/\n\n💬 » Discord Server: https://discord.gg/exM3TcKAme\n\n➖➖➖➖➖➖➖➖➖\n\n》Automatic Tree Farm by @ilmango \n》All music by Kevin Macleod is licensed under a Creative Commons Attribution 4.0 license.\nLink to Artist: https://incompetech.com/music/\n\nThis MINECRAFT HARDCORE SERIES is inspired by Wadzee, MumboJumbo, Grian, and sandiction! Instead of being the Hermitcraft SMP, this series is similar to a MINECRAFT CHALLENGE video because it is HARDCORE MINECRAFT! This is similar to my 100 DAYS in MINECRAFT HARDCORE but better! :)\n\nI Built a WOOD FACTORY in Minecraft Hardcore\n\n➖➖➖➖➖➖➖➖➖\n\n#minecraft #but #hardcore"
+            },
+            "defaultAudioLanguage": "en-US"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "gEkdKq8zdVsvDOq-i66thQv7y3k",
+          "id": "eMQuofsOOzo",
+          "snippet": {
+            "publishedAt": "2022-07-15T15:00:11Z",
+            "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
+            "title": "Calvin Harris - Stay With Me ft Justin Timberlake, Halsey & Pharrell (Official Video)",
+            "description": "Official Video for “Stay With Me” by Calvin Harris, Justin Timberlake, Halsey & Pharrell\n \nListen & Download “Stay With Me” out now: https://calvinharris.lnk.to/StayWithMe\n \nPre-Save “Funk Wav Bounces Vol. 2” out August 5th: https://calvinharris.lnk.to/FWBV2\n \nAmazon Music: https://calvinharris.lnk.to/StayWithMe/AmazonMusic\nApple Music: https://calvinharris.lnk.to/StayWithMe/AppleMusic\niTunes: https://calvinharris.lnk.to/StayWithMe/iTunes\nPandora: https://calvinharris.lnk.to/StayWithMe/Pandora\nSoundcloud: https://calvinharris.lnk.to/StayWithMe/Soundcloud\nSpotify: https://calvinharris.lnk.to/StayWithMe/Spotify\nYouTube Music: https://calvinharris.lnk.to/StayWithMe/YouTubeMusic\nYouTube: https://calvinharris.lnk.to/StayWithMe/YouTube\n \nFollow Calvin Harris\nhttps://www.tiktok.com/@calvinharris\nhttps://www.instagram.com/calvinharris/\nhttps://twitter.com/CalvinHarris\nhttps://www.facebook.com/calvinharris\nhttp://calvinharris.com/  \n \nFollow Justin Timberlake\nhttps://www.tiktok.com/@justintimberlake\nhttps://www.instagram.com/justintimberlake/\nhttps://twitter.com/jtimberlake\nhttps://www.facebook.com/justintimberlake/\nhttps://justintimberlake.com/\n \nFollow Halsey\nhttps://tiktok.com/@halsey\nhttps://www.instagram.com/iamhalsey/\nhttps://twitter.com/halsey\nhttps://www.facebook.com/halsey\n \nFollow Pharrell\nhttps://www.tiktok.com/@pharrell\nhttps://www.instagram.com/pharrell/\nhttps://www.facebook.com/Pharrell\nhttps://twitter.com/pharrell\n \n#CalvinHarris #JustinTimberlake #Halsey #Pharrell",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/eMQuofsOOzo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/eMQuofsOOzo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/eMQuofsOOzo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CalvinHarrisVEVO",
+            "tags": [
+              "Calvin",
+              "Harris",
+              "Halsey",
+              "Pharrell",
+              "Justin Timberlake",
+              "New Calvin",
+              "New Halsey",
+              "New JT",
+              "New Pharrell",
+              "TikTok",
+              "Dance Music",
+              "Pop",
+              "Pop Music",
+              "Collab",
+              "Funk Wav Bounces",
+              "Calvin Harris Funk Wav",
+              "Calvin Harris",
+              "Halsey Pharrell Williams",
+              "Columbia",
+              "Dance",
+              "Stay With Me"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Calvin Harris - Stay With Me ft Justin Timberlake, Halsey & Pharrell (Official Video)",
+              "description": "Official Video for “Stay With Me” by Calvin Harris, Justin Timberlake, Halsey & Pharrell\n \nListen & Download “Stay With Me” out now: https://calvinharris.lnk.to/StayWithMe\n \nPre-Save “Funk Wav Bounces Vol. 2” out August 5th: https://calvinharris.lnk.to/FWBV2\n \nAmazon Music: https://calvinharris.lnk.to/StayWithMe/AmazonMusic\nApple Music: https://calvinharris.lnk.to/StayWithMe/AppleMusic\niTunes: https://calvinharris.lnk.to/StayWithMe/iTunes\nPandora: https://calvinharris.lnk.to/StayWithMe/Pandora\nSoundcloud: https://calvinharris.lnk.to/StayWithMe/Soundcloud\nSpotify: https://calvinharris.lnk.to/StayWithMe/Spotify\nYouTube Music: https://calvinharris.lnk.to/StayWithMe/YouTubeMusic\nYouTube: https://calvinharris.lnk.to/StayWithMe/YouTube\n \nFollow Calvin Harris\nhttps://www.tiktok.com/@calvinharris\nhttps://www.instagram.com/calvinharris/\nhttps://twitter.com/CalvinHarris\nhttps://www.facebook.com/calvinharris\nhttp://calvinharris.com/  \n \nFollow Justin Timberlake\nhttps://www.tiktok.com/@justintimberlake\nhttps://www.instagram.com/justintimberlake/\nhttps://twitter.com/jtimberlake\nhttps://www.facebook.com/justintimberlake/\nhttps://justintimberlake.com/\n \nFollow Halsey\nhttps://tiktok.com/@halsey\nhttps://www.instagram.com/iamhalsey/\nhttps://twitter.com/halsey\nhttps://www.facebook.com/halsey\n \nFollow Pharrell\nhttps://www.tiktok.com/@pharrell\nhttps://www.instagram.com/pharrell/\nhttps://www.facebook.com/Pharrell\nhttps://twitter.com/pharrell\n \n#CalvinHarris #JustinTimberlake #Halsey #Pharrell"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "T5tC67Mct_N9RvprsG00Z3wJlWg",
+          "id": "omEuqt19Uhs",
+          "snippet": {
+            "publishedAt": "2022-07-15T04:00:10Z",
+            "channelId": "UCgBYYDPuLTMRrnPtBiqWJSQ",
+            "title": "Toosii - Love is... (Official Video)",
+            "description": "Watch the official video for \"\"Love is...\"\"by Toosii.\n\nStream // Download Toosii's \"\"Love is...\"\" here: https://toosii.lnk.to/LoveIs\n\nFollow Toosii Everywhere:\nFacebook: https://www.facebook.com/Toosii2x\nTwitter: https://twitter.com/toosii2x \nInstagram: https://www.instagram.com/toosii/\nTikTok: https://vm.tiktok.com/ZMJDUjWwW/ \n\nStream Toosii Everywhere:\nSpotify: https://toosii.lnk.to/SpotifyID \nApple Music: https://toosii.lnk.to/AppleID \nSoundcloud: https://toosii.lnk.to/SoundcloudID \n\nSubscribe to Toosii's YouTube here: https://toosii.lnk.to/YTSubscriptionID\n\nMusic video by Toosii performing Love is.... South Coast Music Group/Capitol Records; © 2022 UMG Recordings, Inc.\n\nhttp://vevo.ly/QlvELi",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/omEuqt19Uhs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/omEuqt19Uhs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/omEuqt19Uhs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Toosii2xVEVO",
+            "tags": [
+              "Toosii",
+              "Love Is Weird",
+              "Love Is"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Toosii - Love is... (Official Video)",
+              "description": "Watch the official video for \"\"Love is...\"\"by Toosii.\n\nStream // Download Toosii's \"\"Love is...\"\" here: https://toosii.lnk.to/LoveIs\n\nFollow Toosii Everywhere:\nFacebook: https://www.facebook.com/Toosii2x\nTwitter: https://twitter.com/toosii2x \nInstagram: https://www.instagram.com/toosii/\nTikTok: https://vm.tiktok.com/ZMJDUjWwW/ \n\nStream Toosii Everywhere:\nSpotify: https://toosii.lnk.to/SpotifyID \nApple Music: https://toosii.lnk.to/AppleID \nSoundcloud: https://toosii.lnk.to/SoundcloudID \n\nSubscribe to Toosii's YouTube here: https://toosii.lnk.to/YTSubscriptionID\n\nMusic video by Toosii performing Love is.... South Coast Music Group/Capitol Records; © 2022 UMG Recordings, Inc.\n\nhttp://vevo.ly/QlvELi"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "7EzMZoXwuTytVwymknMiD6RlFOA",
+          "id": "8ovrNCZKbT4",
+          "snippet": {
+            "publishedAt": "2022-07-15T00:00:12Z",
+            "channelId": "UCRI7hheejBbWS6etTNwMT0g",
+            "title": "Anuel AA, Zion, Randy - Malo",
+            "description": "Real Hasta La Muerte presenta a Anuel AA, Zion, & Randy en “Malo”.\n\nProductores Musicales: Kronix Magical, J Castle, Mauro\n\n#AnuelAA #Zion #Randy #Malo\n\nSuscríbete a mi canal ➡️ https://radi.al/AnuelAA \n\nhttps://orcd.co/maloanuel\n\nVideo Production Company: Conteni2 Media Group \nDirector: TruViews & Emmanuel Gazmey \nVideo Prod.: Florence Torres\n\n🎵 Stream/Download: \nAmazon: \niTunes: \nApple Music: \nSpotify: \nDeezer: \n\n—————\n\nLetra/Lyrics:\n\n(Anuel)\n\nReal Hasta La Muerte oite bebe\nBrrr\n\nMami más de dos razones yo no necesito\nSi te veo el panty te lo quito\nMe dice que si no la llamo a repetir es un delito\nEn su cama estoy invicto\n\n(Zion)\nQuiero acesar tu piel\nRecuerdo la primera vez\nQue te esnuaste y me dijiste papi amárrame \nHazme sexo salvaje baby\n\nDicen que soy el malo pero yo\nSoy el que sacude to’ tu cuerpo\nTu diablo tu calor\nMami esto no fui yo\nEs que ahí te gustan bandoleros \nQue te den con maldad que te den sin perdón \nBabyyy\n\nYo soy el que sacude to tu cuerpo\nTu diablo tu calor \nMami esto no fui yo\nEs que a ti te gusta con maldad\nQue te den sin perdón \nQue te jale el pelo\nUaaaa uaa uaaa uaaaa\n\n(Anuel)\nLa corta llena de pólvora como en el Navy\nPorque aquí se ensucia y no pa modelarle los jeans\nSi ese culo es la NBA yo soy Dwayne en los Heat\nTu estás hackia lo mismo si estuviera natural o opera\nSin bracier porque quiere los 2 aretes marcau\nTus amigas de este lau \nTa tan rica que me vine pero no se me ha bajau\nTe quiero desprender la luz suena como una full\nTu me vez y rapido moja y lo sabes tú\nDespués nos vemos en Lambo amarillo Pikachu \nPa’ no aburrirme no pongas canciones mías en YouTube\nY si tú quieres volver a verme\nToy disponible pa chingar de viernes a jueves \nTu familia dicen que van a matarme\nChingame como si no vas volver a tenerme\n\n(Zion)\nDicen que soy el malo pero yo\nSoy el que sacude to tu cuerpo\nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandoleros \nQue te den con maldad\nQue te den sin perdón \nBabyyy\n\nYo soy el que sacude to tu cuerpo \nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandolero\nQue sea un hijueputa\nQue te jale el pelo\n\n(Randy)\nMami tu la palte’ \nQuiero felicitarte\nSi fuera Picasso tu fueras mi mejor arte\nNena si te busco es porque tengo ganas de darte\nEse culo es tuyo mami\nVen y comparte\nTe gustan bandoleros\n Y yo que soy un cuero\nNos montamos en la Mercedes \nY hacemos un reguero\n23 posiciones pa’ que cantes mis canciones\nTu me vas a pedir que te meta sin condones\nQue cojones\nAquí se gasta chavos con cojones\nLa semana pasa le mande a hacer los melones\n\n(Zion)\nQuiere que la amarre y que la lamba toa’\nLe hago daño y vuelve que yo soy su droga\nSolita se moja, se explota la rola\nElla es mi blanquita y la voy a dejar roja\n(Yea)\nBaby no te vallas a resistir\nQue estoy loco por dejártela adentro\nNo puedes vivir sin mi\nEstamos claros que contigo conecto\nUaaa ua uaaa\nEs masoquista ella va a volver\nUaaa ua uaaa\n\n\n(Randy)\nDicen que soy el malo pero yo\nSoy el que sacude to tu cuerpo\nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandoleros \nQue te den con maldad\nQue te den sin perdón \n\n(Zion)\nBabyyy\nYo soy el que sacude to tu cuerpo \nTu diablo tu calor\nMami esto no fui yo\nEs que a ti te gustan bandoleros\nQue sea un hijueputa\nQue te jale el pelo\n\n(Outro)\nReal hasta la muerte baby\nBrrr\nZion baby\nAnuel\nLos intocable oite bebe\nRandy nota loca\nYou know \nAnuel\nReal hasta la muerte oite bebe\nLas leyendas nunca mueren 2 coming soon\n\nRedes Sociales\nhttps://www.facebook.com/Anuel2bleAofficial/\nhttps://twitter.com/_anuel_aa\nhttps://www.instagram.com/anuel/\n\nhttps://www.anuelaa.com",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8ovrNCZKbT4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8ovrNCZKbT4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8ovrNCZKbT4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/8ovrNCZKbT4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/8ovrNCZKbT4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Anuel AA",
+            "tags": [
+              "Anuel AA",
+              "anuel",
+              "Free anuel",
+              "Emmanuel",
+              "Real hasta la muerte",
+              "New Music",
+              "Reggaeton",
+              "Trap",
+              "Latin Trap",
+              "Malo",
+              "Randy",
+              "Zion",
+              "nuevo sencillo",
+              "new music",
+              "reggaeton",
+              "2022",
+              "LLNM",
+              "LLNM2",
+              "anuel aa",
+              "malo anuel",
+              "anuel malo",
+              "anuel aa malo",
+              "new video",
+              "anuel aa zion randy malo",
+              "anuel aa zion y randy",
+              "trap"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "es",
+            "localized": {
+              "title": "Anuel AA, Zion, Randy - Malo",
+              "description": "Real Hasta La Muerte presenta a Anuel AA, Zion, & Randy en “Malo”.\n\nProductores Musicales: Kronix Magical, J Castle, Mauro\n\n#AnuelAA #Zion #Randy #Malo\n\nSuscríbete a mi canal ➡️ https://radi.al/AnuelAA \n\nhttps://orcd.co/maloanuel\n\nVideo Production Company: Conteni2 Media Group \nDirector: TruViews & Emmanuel Gazmey \nVideo Prod.: Florence Torres\n\n🎵 Stream/Download: \nAmazon: \niTunes: \nApple Music: \nSpotify: \nDeezer: \n\n—————\n\nLetra/Lyrics:\n\n(Anuel)\n\nReal Hasta La Muerte oite bebe\nBrrr\n\nMami más de dos razones yo no necesito\nSi te veo el panty te lo quito\nMe dice que si no la llamo a repetir es un delito\nEn su cama estoy invicto\n\n(Zion)\nQuiero acesar tu piel\nRecuerdo la primera vez\nQue te esnuaste y me dijiste papi amárrame \nHazme sexo salvaje baby\n\nDicen que soy el malo pero yo\nSoy el que sacude to’ tu cuerpo\nTu diablo tu calor\nMami esto no fui yo\nEs que ahí te gustan bandoleros \nQue te den con maldad que te den sin perdón \nBabyyy\n\nYo soy el que sacude to tu cuerpo\nTu diablo tu calor \nMami esto no fui yo\nEs que a ti te gusta con maldad\nQue te den sin perdón \nQue te jale el pelo\nUaaaa uaa uaaa uaaaa\n\n(Anuel)\nLa corta llena de pólvora como en el Navy\nPorque aquí se ensucia y no pa modelarle los jeans\nSi ese culo es la NBA yo soy Dwayne en los Heat\nTu estás hackia lo mismo si estuviera natural o opera\nSin bracier porque quiere los 2 aretes marcau\nTus amigas de este lau \nTa tan rica que me vine pero no se me ha bajau\nTe quiero desprender la luz suena como una full\nTu me vez y rapido moja y lo sabes tú\nDespués nos vemos en Lambo amarillo Pikachu \nPa’ no aburrirme no pongas canciones mías en YouTube\nY si tú quieres volver a verme\nToy disponible pa chingar de viernes a jueves \nTu familia dicen que van a matarme\nChingame como si no vas volver a tenerme\n\n(Zion)\nDicen que soy el malo pero yo\nSoy el que sacude to tu cuerpo\nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandoleros \nQue te den con maldad\nQue te den sin perdón \nBabyyy\n\nYo soy el que sacude to tu cuerpo \nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandolero\nQue sea un hijueputa\nQue te jale el pelo\n\n(Randy)\nMami tu la palte’ \nQuiero felicitarte\nSi fuera Picasso tu fueras mi mejor arte\nNena si te busco es porque tengo ganas de darte\nEse culo es tuyo mami\nVen y comparte\nTe gustan bandoleros\n Y yo que soy un cuero\nNos montamos en la Mercedes \nY hacemos un reguero\n23 posiciones pa’ que cantes mis canciones\nTu me vas a pedir que te meta sin condones\nQue cojones\nAquí se gasta chavos con cojones\nLa semana pasa le mande a hacer los melones\n\n(Zion)\nQuiere que la amarre y que la lamba toa’\nLe hago daño y vuelve que yo soy su droga\nSolita se moja, se explota la rola\nElla es mi blanquita y la voy a dejar roja\n(Yea)\nBaby no te vallas a resistir\nQue estoy loco por dejártela adentro\nNo puedes vivir sin mi\nEstamos claros que contigo conecto\nUaaa ua uaaa\nEs masoquista ella va a volver\nUaaa ua uaaa\n\n\n(Randy)\nDicen que soy el malo pero yo\nSoy el que sacude to tu cuerpo\nTu diablo tu calor\nBaby esto no fui yo\nEs que a ti te gustan bandoleros \nQue te den con maldad\nQue te den sin perdón \n\n(Zion)\nBabyyy\nYo soy el que sacude to tu cuerpo \nTu diablo tu calor\nMami esto no fui yo\nEs que a ti te gustan bandoleros\nQue sea un hijueputa\nQue te jale el pelo\n\n(Outro)\nReal hasta la muerte baby\nBrrr\nZion baby\nAnuel\nLos intocable oite bebe\nRandy nota loca\nYou know \nAnuel\nReal hasta la muerte oite bebe\nLas leyendas nunca mueren 2 coming soon\n\nRedes Sociales\nhttps://www.facebook.com/Anuel2bleAofficial/\nhttps://twitter.com/_anuel_aa\nhttps://www.instagram.com/anuel/\n\nhttps://www.anuelaa.com"
+            },
+            "defaultAudioLanguage": "es"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "2J_e1QVTTnUMdvndRpqyocq3St4",
+          "id": "4ffKoZXt-BM",
+          "snippet": {
+            "publishedAt": "2022-07-15T16:01:17Z",
+            "channelId": "UCpa-Zb0ZcQjTCPP1Dx_1M8Q",
+            "title": "Elon Musk Pulls Out",
+            "description": "Can Elon get out of the deal?  ☕️  Sign up for Morning Brew now!  https://legaleagle.link/morningbrew\n\nWelcome back to LegalEagle.  The most avian legal analysis on the internets. \n🚀 Extended & ad-free versions on Nebula/CuriosityStream! https://legaleagle.link/extras\n👔 Suits by Indochino! https://legaleagle.link/indochino\n\nGOT A VIDEO IDEA? TELL ME!\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nSend me an email: devin@legaleagle.show\n\nMY COURSES\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nInterested in LAW SCHOOL?  Get my guide to law school! https://legaleagle.link/lawguide\nNeed help with COPYRIGHT? I built a course just for you! https://legaleagle.link/copyrightcourse\n\nSOCIAL MEDIA & DISCUSSIONS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTwitter:           https://legaleagle.link/twitter\nFacebook:      https://legaleagle.link/facebook\nTik Tok:          https://legaleagle.link/tiktok\nInstagram:     https://legaleagle.link/instagram\nReddit:            https://legaleagle.link/reddit\nPodcast:         https://legaleagle.link/podcast\nOnlyFans        https://legaleagle.link/onlyfans\nPatreon          https://legaleagle.link/patreon\n\nBUSINESS INQUIRIES\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nPlease email my agent & manager at legaleagle@standard.tv\n\nLEGAL-ISH DISCLAIMER\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nSorry, occupational hazard:  This is not legal advice, nor can I give you legal advice.  I AM NOT YOUR LAWYER.  Sorry!  Everything here is for informational purposes only and not for the purpose of providing legal advice. You should contact your attorney to obtain advice with respect to any particular issue or problem.  Nothing here should be construed to form an attorney-client relationship.  Also, some of the links in this post may be affiliate links, meaning, at no cost to you, I will earn a small commission if you click through and make a purchase.  But if you click, it really helps me make more of these videos!  All non-licensed clips used for fair use commentary, criticism, and educational purposes.  See Hosseinzadeh v. Klein, 276 F.Supp.3d 34 (S.D.N.Y. 2017); Equals Three, LLC v. Jukin Media, Inc., 139 F. Supp. 3d 1094 (C.D. Cal. 2015). \n\nSpecial thanks:\nStock video and imagery provided by Getty Images and AP Archives\nMusic provided by Epidemic Sound\nShort links by pixelme.me (https://pxle.me/eagle)\nMaps provided by MapTiler/Geolayers",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4ffKoZXt-BM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4ffKoZXt-BM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4ffKoZXt-BM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/4ffKoZXt-BM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/4ffKoZXt-BM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "LegalEagle",
+            "tags": [
+              "Legaleagle",
+              "legal eagle",
+              "breaking news",
+              "case",
+              "congress",
+              "court case",
+              "crime",
+              "guilty",
+              "jury",
+              "latest news",
+              "news",
+              "not guilty",
+              "political",
+              "politics",
+              "politics news",
+              "scotus",
+              "supreme court",
+              "the trial",
+              "trial",
+              "Verdict",
+              "copyright",
+              "law advice",
+              "legal analysis",
+              "lawyer",
+              "attorney",
+              "Real lawyer",
+              "Real law review"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Elon Musk Pulls Out",
+              "description": "Can Elon get out of the deal?  ☕️  Sign up for Morning Brew now!  https://legaleagle.link/morningbrew\n\nWelcome back to LegalEagle.  The most avian legal analysis on the internets. \n🚀 Extended & ad-free versions on Nebula/CuriosityStream! https://legaleagle.link/extras\n👔 Suits by Indochino! https://legaleagle.link/indochino\n\nGOT A VIDEO IDEA? TELL ME!\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nSend me an email: devin@legaleagle.show\n\nMY COURSES\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nInterested in LAW SCHOOL?  Get my guide to law school! https://legaleagle.link/lawguide\nNeed help with COPYRIGHT? I built a course just for you! https://legaleagle.link/copyrightcourse\n\nSOCIAL MEDIA & DISCUSSIONS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTwitter:           https://legaleagle.link/twitter\nFacebook:      https://legaleagle.link/facebook\nTik Tok:          https://legaleagle.link/tiktok\nInstagram:     https://legaleagle.link/instagram\nReddit:            https://legaleagle.link/reddit\nPodcast:         https://legaleagle.link/podcast\nOnlyFans        https://legaleagle.link/onlyfans\nPatreon          https://legaleagle.link/patreon\n\nBUSINESS INQUIRIES\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nPlease email my agent & manager at legaleagle@standard.tv\n\nLEGAL-ISH DISCLAIMER\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nSorry, occupational hazard:  This is not legal advice, nor can I give you legal advice.  I AM NOT YOUR LAWYER.  Sorry!  Everything here is for informational purposes only and not for the purpose of providing legal advice. You should contact your attorney to obtain advice with respect to any particular issue or problem.  Nothing here should be construed to form an attorney-client relationship.  Also, some of the links in this post may be affiliate links, meaning, at no cost to you, I will earn a small commission if you click through and make a purchase.  But if you click, it really helps me make more of these videos!  All non-licensed clips used for fair use commentary, criticism, and educational purposes.  See Hosseinzadeh v. Klein, 276 F.Supp.3d 34 (S.D.N.Y. 2017); Equals Three, LLC v. Jukin Media, Inc., 139 F. Supp. 3d 1094 (C.D. Cal. 2015). \n\nSpecial thanks:\nStock video and imagery provided by Getty Images and AP Archives\nMusic provided by Epidemic Sound\nShort links by pixelme.me (https://pxle.me/eagle)\nMaps provided by MapTiler/Geolayers"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "Xg2TWMVnbZK2-YrmevhAfvdUoLk",
+          "id": "1YUBbF24H44",
+          "snippet": {
+            "publishedAt": "2022-07-15T04:00:09Z",
+            "channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+            "title": "Sabrina Carpenter - because i liked a boy (Official Video)",
+            "description": "Stream emails i can’t send here: https://sabrinacarpenter.lnk.to/EICS \nBuy merch: https://shopsabrinacarpenter.com/ \n\nDirected by Amber Park\nCreative Director Sarah Carpenter\nProduction Company Radiance Pictures \nExecutive Producer Nuer Taqa \nProducer Zoey Pressey \nProduction Manager Mike Zielinski\nDirector of Photography Luis Perez \nProduction Designers Brittany Porter & Hensel Martinez\nChoreographer Jasmine Badie\nStylist Ronnie Hart\nHair Evanie Frausto\nMakeup Allan Avendano\n\nEditor Zoey Peck, Ethos Studio\nCo-Editor Danielle Schneiderman, Modern Post\nAssociate Editor Audrey Leach\nVFX Foreign Xchange\nVFX Tunjayork\nVFX Retina Imageworks\nColor Bryan Smaller, Company 3 \nGraphic Design Peter van Lagen\nSound Designer Jack Liden\n\nFeaturing\nSchika\nJordan Laza\nJazmine Escobar\nTori Joy Caro\nBriana Williams\nAmanda Masongsong\nDavid Alarcon\nDialló Mítchell\nFabian Gonzalez\nCameron Woods\nHensel Martinez\nBrittany Porter\nSofia Valle\nLyena Kang\n\n1st AD Max Dean\n2nd AD Daniel Bennaiem\nAD PA Yebhe Diallo\n1st AC Jo Choi\n2nd AC Estevan Falcon\nSteadicam Op Garet Jatsek \nCrane Op Christopher Sinclair\nHead Tech Jaden Nolan\nCrane Asst Richard Luna\nVTR Bob Mills\nGaffer Tate McCurdy\nBBE Colvin Ang\nSLT Kylie Allinson\nSLT Joe Kosty\nLCP Patrick Mattes\nKey Grip Brad Powers\nBBG Valfrie Tabian Jr.\nGrip Taylor Reick\nGrip Poppy Shaw\nGrip Trevor Breithaupt\nTruss Rigging O Grip Rigging Inc.\nOscar Branham\nDerek Jimenez\nArt Coordinator Chris Cranston\nSet Decorator Mikey Avina\nProp Master Sunny Mills\nLead Man Logan Blue\nSet Dresser Jesus Alvarado\nSet Dresser Oliver Johnson\nSet Dresser Kris Ingram\nSet Dresser Johnathan Villalobos\nSet Dresser Dylan Kolovich\nOn-Set dresser Michael Coursey\nScenic Lead Dani Manning\nScenic Skye Amber Sweet\nScenic Kobe Wolverton\nArt PA Nick De La Rosa\nArt PA Richard Cano\nArt PA Bill Evangelista\nTiger Trainer Eric Weld\nTiger Trainer Christopher Pollard\nTiger Trainer Heather Long\nStunt Coordinator Robert Brown\nMedic Harout Klian\nBG Stylist Donna Lisa\nBG Stylist Asst Jasmine Amini\nBG Stylist Asst Alex Levey\nBG Makeup Lead Arielle Park\nBG Makeup Asst Sarah Loranca\nBG Makeup Asst Malia Sine\nBG Makeup Asst Amadora Biscette \nBG Hair Lead Melissa Dominguez\nBG Hair Asst Laura Cabott\nBG Hair Asst Lexi Mazzilli\nBG Hair Asst Joseph Torres\nChoreographer Asst Starley Carrington\nPA Francisco Ruvalcaba\nPA Thuy Bercher\nPA Alissa Marlow\nPA Shokrat Taqa\nPA Memetjan Semet\nPA Monte Halthon\n\n\nSubscribe to Sabrina’s channel: https://bit.ly/SCYTsubscribe \n\nFollow Sabrina Carpenter:\nhttps://sabrinacarpenter.komi.io/ \nInstagram: https://www.instagram.com/sabrinacarpenter/ \nFacebook: https://www.facebook.com/sabrinacarpenter \nTwitter: https://twitter.com/SabrinaAnnLynn \nTikTok: https://www.tiktok.com/@sabrinacarpenter?lang=en \n\n#SabrinaCarpenter #BecauseILikedaBoy #emailsicantsend\n\nLYRICS:\nI said I wanted thin mints\nAnd you said you knew a guy \nYou showed up with a boombox \nAnd stars in your eyes \nWho knew cuddling on trampolines \nCould be so reckless \nWe bonded over black eyed peas \nAnd and complicated exes \n\nFell so deeply into it\nIt was all so innocent \n\nNow I’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because I liked -\nI’m the hot topic on your tongue \nI’m a rebound gettin’ ‘round \nStealin’ from the young \nTell me who I am \nGuess I don’t have a choice \nAll I because I liked a boy \n\nI’m not catastrophizing \nEverything’s derailing \nWas only tryna hold you close\nWhile your heart was failing \nIt’s not internet illusion\nJust two kids going through it \nYou said I'm too late to be your first love \nBut I’ll always be your favorite \n\nNow I’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because Ii liked -\nI’m the hot topic on your tongue \nI’m a rebound gettin’ ‘round \nStealin’ from the young \nTell me who I am \nGuess I don’t have a choice \nAll I because I liked a boy \n\nFell so deeply into it\nIt was all so innocent \nDating boys with exes \nNoIi wouldn’t recommend it \n\nI’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because I liked a boy\nAnd all of this for what \nWhen everything went down \nWe’d already broken up \nPlease tell me who I am \nGuess I don’t have a choice \nAll because i liked a boy \nA boy \nA boy \nAll because I liked a boy \n\nMusic video by Sabrina Carpenter performing because i liked a boy. © 2022 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/CweGHX",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1YUBbF24H44/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1YUBbF24H44/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1YUBbF24H44/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/1YUBbF24H44/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/1YUBbF24H44/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "SabrinaCarpenterVEVO",
+            "tags": [
+              "Sabrina Carpenter",
+              "Sabrina Carpenter new song",
+              "Sabrina Carpenter emails can’t send",
+              "Sabrina Carpenter Because Liked Boy",
+              "Because Liked Boy",
+              "because liked boy lyrics",
+              "sabrina carpenter because liked boy video",
+              "Sabrina Carpenter music",
+              "Sabrina Carpenter album",
+              "Disney singer",
+              "Emergency actress",
+              "Emergency movie",
+              "Julia Michaels",
+              "JP Saxe",
+              "tiktok famous",
+              "TikTok song",
+              "Emails Can’t Send Album",
+              "Sabrina Carpenter Album",
+              "Island Records"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Sabrina Carpenter - because i liked a boy (Official Video)",
+              "description": "Stream emails i can’t send here: https://sabrinacarpenter.lnk.to/EICS \nBuy merch: https://shopsabrinacarpenter.com/ \n\nDirected by Amber Park\nCreative Director Sarah Carpenter\nProduction Company Radiance Pictures \nExecutive Producer Nuer Taqa \nProducer Zoey Pressey \nProduction Manager Mike Zielinski\nDirector of Photography Luis Perez \nProduction Designers Brittany Porter & Hensel Martinez\nChoreographer Jasmine Badie\nStylist Ronnie Hart\nHair Evanie Frausto\nMakeup Allan Avendano\n\nEditor Zoey Peck, Ethos Studio\nCo-Editor Danielle Schneiderman, Modern Post\nAssociate Editor Audrey Leach\nVFX Foreign Xchange\nVFX Tunjayork\nVFX Retina Imageworks\nColor Bryan Smaller, Company 3 \nGraphic Design Peter van Lagen\nSound Designer Jack Liden\n\nFeaturing\nSchika\nJordan Laza\nJazmine Escobar\nTori Joy Caro\nBriana Williams\nAmanda Masongsong\nDavid Alarcon\nDialló Mítchell\nFabian Gonzalez\nCameron Woods\nHensel Martinez\nBrittany Porter\nSofia Valle\nLyena Kang\n\n1st AD Max Dean\n2nd AD Daniel Bennaiem\nAD PA Yebhe Diallo\n1st AC Jo Choi\n2nd AC Estevan Falcon\nSteadicam Op Garet Jatsek \nCrane Op Christopher Sinclair\nHead Tech Jaden Nolan\nCrane Asst Richard Luna\nVTR Bob Mills\nGaffer Tate McCurdy\nBBE Colvin Ang\nSLT Kylie Allinson\nSLT Joe Kosty\nLCP Patrick Mattes\nKey Grip Brad Powers\nBBG Valfrie Tabian Jr.\nGrip Taylor Reick\nGrip Poppy Shaw\nGrip Trevor Breithaupt\nTruss Rigging O Grip Rigging Inc.\nOscar Branham\nDerek Jimenez\nArt Coordinator Chris Cranston\nSet Decorator Mikey Avina\nProp Master Sunny Mills\nLead Man Logan Blue\nSet Dresser Jesus Alvarado\nSet Dresser Oliver Johnson\nSet Dresser Kris Ingram\nSet Dresser Johnathan Villalobos\nSet Dresser Dylan Kolovich\nOn-Set dresser Michael Coursey\nScenic Lead Dani Manning\nScenic Skye Amber Sweet\nScenic Kobe Wolverton\nArt PA Nick De La Rosa\nArt PA Richard Cano\nArt PA Bill Evangelista\nTiger Trainer Eric Weld\nTiger Trainer Christopher Pollard\nTiger Trainer Heather Long\nStunt Coordinator Robert Brown\nMedic Harout Klian\nBG Stylist Donna Lisa\nBG Stylist Asst Jasmine Amini\nBG Stylist Asst Alex Levey\nBG Makeup Lead Arielle Park\nBG Makeup Asst Sarah Loranca\nBG Makeup Asst Malia Sine\nBG Makeup Asst Amadora Biscette \nBG Hair Lead Melissa Dominguez\nBG Hair Asst Laura Cabott\nBG Hair Asst Lexi Mazzilli\nBG Hair Asst Joseph Torres\nChoreographer Asst Starley Carrington\nPA Francisco Ruvalcaba\nPA Thuy Bercher\nPA Alissa Marlow\nPA Shokrat Taqa\nPA Memetjan Semet\nPA Monte Halthon\n\n\nSubscribe to Sabrina’s channel: https://bit.ly/SCYTsubscribe \n\nFollow Sabrina Carpenter:\nhttps://sabrinacarpenter.komi.io/ \nInstagram: https://www.instagram.com/sabrinacarpenter/ \nFacebook: https://www.facebook.com/sabrinacarpenter \nTwitter: https://twitter.com/SabrinaAnnLynn \nTikTok: https://www.tiktok.com/@sabrinacarpenter?lang=en \n\n#SabrinaCarpenter #BecauseILikedaBoy #emailsicantsend\n\nLYRICS:\nI said I wanted thin mints\nAnd you said you knew a guy \nYou showed up with a boombox \nAnd stars in your eyes \nWho knew cuddling on trampolines \nCould be so reckless \nWe bonded over black eyed peas \nAnd and complicated exes \n\nFell so deeply into it\nIt was all so innocent \n\nNow I’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because I liked -\nI’m the hot topic on your tongue \nI’m a rebound gettin’ ‘round \nStealin’ from the young \nTell me who I am \nGuess I don’t have a choice \nAll I because I liked a boy \n\nI’m not catastrophizing \nEverything’s derailing \nWas only tryna hold you close\nWhile your heart was failing \nIt’s not internet illusion\nJust two kids going through it \nYou said I'm too late to be your first love \nBut I’ll always be your favorite \n\nNow I’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because Ii liked -\nI’m the hot topic on your tongue \nI’m a rebound gettin’ ‘round \nStealin’ from the young \nTell me who I am \nGuess I don’t have a choice \nAll I because I liked a boy \n\nFell so deeply into it\nIt was all so innocent \nDating boys with exes \nNoIi wouldn’t recommend it \n\nI’m a homewrecker\nI’m a slut \nI got death threats \nFilling up semi trucks \nTell me who I am \nGuess I don’t have a choice \nAll because I liked a boy\nAnd all of this for what \nWhen everything went down \nWe’d already broken up \nPlease tell me who I am \nGuess I don’t have a choice \nAll because i liked a boy \nA boy \nA boy \nAll because I liked a boy \n\nMusic video by Sabrina Carpenter performing because i liked a boy. © 2022 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/CweGHX"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "6o26fyDTiaO9A2QLm7CShFoERic",
+          "id": "ewgCqJDI_Nk",
+          "snippet": {
+            "publishedAt": "2022-07-14T12:24:17Z",
+            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
+            "title": "The Lord of the Rings: The Rings of Power – Main Teaser | Prime Video",
+            "description": "This September the legend begins. #TheRingsOfPower\n\nPrime Video's The Lord of the Rings: The Rings of Power brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth's history. This epic drama is set thousands of years before the events of J.R.R. Tolkien’s The Hobbit and The Lord of the Rings, and will take viewers back to an era in which great powers were forged, kingdoms rose to glory and fell to ruin, unlikely heroes were tested, hope hung by the finest of threads, and the greatest villain that ever flowed from Tolkien’s pen threatened to cover all the world in darkness. Beginning in a time of relative peace, the series follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of the elf-capital of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.\n\nAbout Prime Video:\nWant to watch it now? We've got it. This week's newest movies, last night's TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Over 150,000 movies and TV episodes, including thousands for Amazon Prime members at no additional cost.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nFacebook: http://bit.ly/PrimeVideoFB\nTwitter: http://bit.ly/PrimeVideoTW\nInstagram: http://bit.ly/AmazonPrimeVideoIG\n \nThe Lord of the Rings: The Rings of Power – Main Teaser | Prime Video\nhttps://youtu.be/ewgCqJDI_Nk\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#TheRingsofPower #PrimeVideo",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ewgCqJDI_Nk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ewgCqJDI_Nk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ewgCqJDI_Nk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ewgCqJDI_Nk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ewgCqJDI_Nk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Prime Video",
+            "tags": [
+              "LOTR",
+              "amazon",
+              "amazon lord of the rings",
+              "amazon prime",
+              "amazon prime video",
+              "amazon studios",
+              "epic",
+              "fantasy",
+              "fantasy series",
+              "lord of the rings",
+              "lord of the rings season 1",
+              "lord of the rings trailer",
+              "lord of the rings tv series",
+              "lord of the rings tv show",
+              "lotr on prime",
+              "middle earth",
+              "middle-earth",
+              "prime video",
+              "prime video lord of the rings",
+              "rings of power",
+              "tolkien",
+              "tv series",
+              "tv series 2022",
+              "the lord of the rings",
+              "lord of the rings rings of power",
+              "main teaser"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Lord of the Rings: The Rings of Power – Main Teaser | Prime Video",
+              "description": "This September the legend begins. #TheRingsOfPower\n\nPrime Video's The Lord of the Rings: The Rings of Power brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth's history. This epic drama is set thousands of years before the events of J.R.R. Tolkien’s The Hobbit and The Lord of the Rings, and will take viewers back to an era in which great powers were forged, kingdoms rose to glory and fell to ruin, unlikely heroes were tested, hope hung by the finest of threads, and the greatest villain that ever flowed from Tolkien’s pen threatened to cover all the world in darkness. Beginning in a time of relative peace, the series follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of the elf-capital of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.\n\nAbout Prime Video:\nWant to watch it now? We've got it. This week's newest movies, last night's TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Over 150,000 movies and TV episodes, including thousands for Amazon Prime members at no additional cost.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nFacebook: http://bit.ly/PrimeVideoFB\nTwitter: http://bit.ly/PrimeVideoTW\nInstagram: http://bit.ly/AmazonPrimeVideoIG\n \nThe Lord of the Rings: The Rings of Power – Main Teaser | Prime Video\nhttps://youtu.be/ewgCqJDI_Nk\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#TheRingsofPower #PrimeVideo"
+            },
+            "defaultAudioLanguage": "en-US"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "oRXoqxqLXZBUAi7ddbJRAydYDw8",
+          "id": "TgbajKDd63s",
+          "snippet": {
+            "publishedAt": "2022-07-13T12:36:57Z",
+            "channelId": "UC33-OkQ6VCYk8xtml8Pk4-g",
+            "title": "QLD Maroons v NSW Blues | Match Highlights | State of Origin III, 2022 | NRL",
+            "description": "Queensland Maroons welcomed New South Wales Blues to Suncorp Stadium, Brisbane for a major decider in Ampol State of Origin III.\n\n🏉 SUBSCRIBE FOR MORE NRL ACTION 🏉\nhttps://www.youtube.com/channel/UC33-OkQ6VCYk8xtml8Pk4-g?sub_confirmation=1\n\nTo keep up to date with all the latest NRL content head to:\nNRL Watch: https://www.nrl.com/watch/\nNRL Tickets: https://tickets.nrl.com/\nNRL Draw: https://www.nrl.com/draw/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/TgbajKDd63s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/TgbajKDd63s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/TgbajKDd63s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/TgbajKDd63s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/TgbajKDd63s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "NRL - National Rugby League",
+            "tags": [
+              "NRL",
+              "National Rugby League",
+              "Games",
+              "Matches",
+              "Highlights",
+              "Rugby",
+              "Telstra Premiership",
+              "Fox Sports",
+              "State of Origin",
+              "Nine",
+              "NRL Highlights",
+              "NRL Game Highlights",
+              "Rugby League Highlights",
+              "Rugby League",
+              "NRL Full Match",
+              "NRL Live",
+              "Watch NRL",
+              "NRL Match Highlights",
+              "Rugby league highlights",
+              "NRL 2022",
+              "NRL 2022 highlights",
+              "NRL22",
+              "NRL22 highlights",
+              "NRL scores",
+              "nrl schedule",
+              "nrl draw",
+              "NRLW",
+              "NRL Women's",
+              "nrl women's highlights",
+              "state of origin",
+              "new south wales blues",
+              "queensland maroons"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "QLD Maroons v NSW Blues | Match Highlights | State of Origin III, 2022 | NRL",
+              "description": "Queensland Maroons welcomed New South Wales Blues to Suncorp Stadium, Brisbane for a major decider in Ampol State of Origin III.\n\n🏉 SUBSCRIBE FOR MORE NRL ACTION 🏉\nhttps://www.youtube.com/channel/UC33-OkQ6VCYk8xtml8Pk4-g?sub_confirmation=1\n\nTo keep up to date with all the latest NRL content head to:\nNRL Watch: https://www.nrl.com/watch/\nNRL Tickets: https://tickets.nrl.com/\nNRL Draw: https://www.nrl.com/draw/"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "J7Zi0yHr7YiKpa130EYmWe8-8kk",
+          "id": "h-4xQ6y2nlo",
+          "snippet": {
+            "publishedAt": "2022-07-15T01:33:50Z",
+            "channelId": "UC0psAD-M4X6O0yC_hFRK4hw",
+            "title": "WE ALMOST BOUGHT A 3 MIL HOUSE!!",
+            "description": "Use code ALONDRA16 for up to 16 FREE MEALS + 3 Surprise Gifts across 6 HelloFresh boxes plus free shipping at https://bit.ly/3ppnUIo\n\nhttp://www.instagram.com/thelashbarla\u200b\u200b\u200b\n\nMY SOCIAL MEDIAS\n\nShop my lashes! \n\nhttp://www.thelashbarla.com\u200b\u200b\u200b\n\n\nhttp://www.instagram.com/alondradessy\u200b\u200b\u200b\n\nTIKTOK alondradesyyy\n\nhttps://vm.tiktok.com/TTPdBLQqY1/\n\nhttp://www.twitter.com/alondradessy\u200b\u200b\u200b\n\n\nSnapchat, alondradessy.#alondradessy #bennysoliven",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/h-4xQ6y2nlo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/h-4xQ6y2nlo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/h-4xQ6y2nlo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/h-4xQ6y2nlo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/h-4xQ6y2nlo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "AlondraDessy",
+            "tags": [
+              "Les do makeup",
+              "Laura mellado",
+              "Elsy guevara",
+              "Bramty",
+              "Bram fam",
+              "Louie Castro",
+              "Benny soliven",
+              "Iluvsarahi",
+              "Murillo twins",
+              "Juju and des",
+              "kB and karla"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "WE ALMOST BOUGHT A 3 MIL HOUSE!!",
+              "description": "Use code ALONDRA16 for up to 16 FREE MEALS + 3 Surprise Gifts across 6 HelloFresh boxes plus free shipping at https://bit.ly/3ppnUIo\n\nhttp://www.instagram.com/thelashbarla\u200b\u200b\u200b\n\nMY SOCIAL MEDIAS\n\nShop my lashes! \n\nhttp://www.thelashbarla.com\u200b\u200b\u200b\n\n\nhttp://www.instagram.com/alondradessy\u200b\u200b\u200b\n\nTIKTOK alondradesyyy\n\nhttps://vm.tiktok.com/TTPdBLQqY1/\n\nhttp://www.twitter.com/alondradessy\u200b\u200b\u200b\n\n\nSnapchat, alondradessy.#alondradessy #bennysoliven"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "FnFc5QozcK8W5y2hI0euV2MhN8I",
+          "id": "-CcwIezIh5o",
+          "snippet": {
+            "publishedAt": "2022-07-15T00:23:53Z",
+            "channelId": "UCVT1tPkR-fUVlO652EcO3ow",
+            "title": "From 2017: \"First Ex\" Ivana Trump",
+            "description": "Ivana Trump, the first wife of Donald Trump, died on Thursday. She was 73. In this interview broadcast on \"Sunday Morning\" on October 8, 2017, she talks with correspondent Jim Axelrod about her life before and after she and her husband divorced; her thoughts about Trump's second and third wives, Marla Maples and Melania Trump; and other topics that she also addresses in her memoir, \"Raising Trump.\"\n\n#ivanatrump\n\n\"CBS Sunday Morning\" features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.\n\nSubscribe to the \"CBS Sunday Morning\" YouTube channel: http://bit.ly/20gXwJT\nGet more of \"CBS Sunday Morning\": http://cbsn.ws/1PlMmAz\nFollow \"CBS Sunday Morning\" on Instagram: http://bit.ly/23XunIh\nLike \"CBS Sunday Morning\" on Facebook: https://bit.ly/3sRgLPG\nFollow \"CBS Sunday Morning\" on Twitter: http://bit.ly/1RquoQb\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-CcwIezIh5o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-CcwIezIh5o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-CcwIezIh5o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/-CcwIezIh5o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/-CcwIezIh5o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "CBS Sunday Morning",
+            "tags": [
+              "CBS Sunday Morning",
+              "CBS News",
+              "news"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "From 2017: \"First Ex\" Ivana Trump",
+              "description": "Ivana Trump, the first wife of Donald Trump, died on Thursday. She was 73. In this interview broadcast on \"Sunday Morning\" on October 8, 2017, she talks with correspondent Jim Axelrod about her life before and after she and her husband divorced; her thoughts about Trump's second and third wives, Marla Maples and Melania Trump; and other topics that she also addresses in her memoir, \"Raising Trump.\"\n\n#ivanatrump\n\n\"CBS Sunday Morning\" features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.\n\nSubscribe to the \"CBS Sunday Morning\" YouTube channel: http://bit.ly/20gXwJT\nGet more of \"CBS Sunday Morning\": http://cbsn.ws/1PlMmAz\nFollow \"CBS Sunday Morning\" on Instagram: http://bit.ly/23XunIh\nLike \"CBS Sunday Morning\" on Facebook: https://bit.ly/3sRgLPG\nFollow \"CBS Sunday Morning\" on Twitter: http://bit.ly/1RquoQb\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "Ee0OyAGXAZrTWt3H4uvVBxE7Epo",
+          "id": "DmyE4aTgc3A",
+          "snippet": {
+            "publishedAt": "2022-07-14T17:03:27Z",
+            "channelId": "UCeNZlh03MyUkjRlLFpVQxsg",
+            "title": "Behind the Billion Views Club I YouTube Culture & Trends",
+            "description": "For artists, hitting one billion views has become the ultimate mark of a music video's success. From Psy to Swift, here's who's made the cut. \n\nTo further explore the Billion Views Club list: https://yt.be/billionviews \n\n#billionviewsclub",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DmyE4aTgc3A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DmyE4aTgc3A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DmyE4aTgc3A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "YouTube Culture & Trends",
+            "tags": [
+              "#billionviewsclub",
+              "#billionviews"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Behind the Billion Views Club I YouTube Culture & Trends",
+              "description": "For artists, hitting one billion views has become the ultimate mark of a music video's success. From Psy to Swift, here's who's made the cut. \n\nTo further explore the Billion Views Club list: https://yt.be/billionviews \n\n#billionviewsclub"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "tjMogxP8gR6yap5l592YdOBRHIg",
+          "id": "cTkV-rQQ-IQ",
+          "snippet": {
+            "publishedAt": "2022-07-14T18:00:26Z",
+            "channelId": "UCPRUgAl_MV9PajsrG_BmT9w",
+            "title": "Jamie Campbell Bower Reads Vecna Thirst Tweets",
+            "description": "Listen, he plays our favorite squelchy villain on “Stranger Things,” so to celebrate the new season we had Jamie Campbell Bower sit down and read some of the thirstiest tweets about himself and Vecna. Yes, it's as hilarious and chaotic as it sounds. Check out the video now! #JamieCampbellBower #StrangerThings #ThirstTweets\n\nCredits: https://www.buzzfeed.com/bfmp/videos/161490\n\nSubscribe to BuzzFeed Celeb: https://bzfd.it/2kU81Ls\n\nBuzzFeed Celeb\nCelebs + puppies, kittens, thirst tweets, and more = so much yes.\n\nGET MORE BUZZFEED:\nhttps://www.buzzfeed.com\nhttps://www.buzzfeed.com/videos\nhttps://www.youtube.com/buzzfeedvideo\nhttps://www.youtube.com/asis\nhttps://www.youtube.com/buzzfeedmultiplayer\nhttps://www.youtube.com/buzzfeedunsolvednetwork\nhttp://youtube.com/buzzfeedceleb\nhttps://www.youtube.com/perolike\nhttps://www.youtube.com/buzzfeedviolet\nhttps://www.youtube.com/goodful\nhttps://www.youtube.com/nifty\nhttps://www.youtube.com/buzzfeedtasty\nhttps://www.youtube.com/bringme\nhttps://www.youtube.com/abouttoeat\n\nSUBSCRIBE TO BUZZFEED NEWSLETTERS:\nhttps://www.buzzfeed.com/newsletters\n\nMUSIC\nDamn Right_Fullmix\nLicensed via Warner Chappell Production Music Inc.\nDJ Second_Fullmix (1)\nLicensed via Warner Chappell Production Music Inc.\n\nSTILLS\n/BuzzMoji\n\nVIDEO\nFootage provided by VideoBlocks\n(http://vblocks.com/x/BuzzFeedYouTube)",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cTkV-rQQ-IQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cTkV-rQQ-IQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cTkV-rQQ-IQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "BuzzFeed Celeb",
+            "tags": [
+              "buzzfeed",
+              "buzzfeed celeb",
+              "celeb interviews",
+              "stranger things",
+              "Jamie Campbell Bower",
+              "Jamie Campbell Bower interview",
+              "netflix",
+              "vecna actor",
+              "thirst tweets",
+              "buzzfeed thirst tweets",
+              "celebs read thirst tweets",
+              "jamie campbell bower stranger things",
+              "jamie campbell bower vecna voice",
+              "jamie campbell bower funny moments"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-US",
+            "localized": {
+              "title": "Jamie Campbell Bower Reads Vecna Thirst Tweets",
+              "description": "Listen, he plays our favorite squelchy villain on “Stranger Things,” so to celebrate the new season we had Jamie Campbell Bower sit down and read some of the thirstiest tweets about himself and Vecna. Yes, it's as hilarious and chaotic as it sounds. Check out the video now! #JamieCampbellBower #StrangerThings #ThirstTweets\n\nCredits: https://www.buzzfeed.com/bfmp/videos/161490\n\nSubscribe to BuzzFeed Celeb: https://bzfd.it/2kU81Ls\n\nBuzzFeed Celeb\nCelebs + puppies, kittens, thirst tweets, and more = so much yes.\n\nGET MORE BUZZFEED:\nhttps://www.buzzfeed.com\nhttps://www.buzzfeed.com/videos\nhttps://www.youtube.com/buzzfeedvideo\nhttps://www.youtube.com/asis\nhttps://www.youtube.com/buzzfeedmultiplayer\nhttps://www.youtube.com/buzzfeedunsolvednetwork\nhttp://youtube.com/buzzfeedceleb\nhttps://www.youtube.com/perolike\nhttps://www.youtube.com/buzzfeedviolet\nhttps://www.youtube.com/goodful\nhttps://www.youtube.com/nifty\nhttps://www.youtube.com/buzzfeedtasty\nhttps://www.youtube.com/bringme\nhttps://www.youtube.com/abouttoeat\n\nSUBSCRIBE TO BUZZFEED NEWSLETTERS:\nhttps://www.buzzfeed.com/newsletters\n\nMUSIC\nDamn Right_Fullmix\nLicensed via Warner Chappell Production Music Inc.\nDJ Second_Fullmix (1)\nLicensed via Warner Chappell Production Music Inc.\n\nSTILLS\n/BuzzMoji\n\nVIDEO\nFootage provided by VideoBlocks\n(http://vblocks.com/x/BuzzFeedYouTube)"
+            },
+            "defaultAudioLanguage": "en-US"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "Lk0-RXq8kwUGr7fOAXiFPMqwuRo",
+          "id": "QpWd7J9oT40",
+          "snippet": {
+            "publishedAt": "2022-07-14T12:15:01Z",
+            "channelId": "UCmejFlREp8Df70YX0YfLHVg",
+            "title": "I made every mob REALISTIC in minecraft",
+            "description": "I Made Every Mob REALISTIC in Minecraft\nIn this video, I took it upon myself to remake Minecraft mobs realistic in Minecraft 1.19... This Minecraft video is very cursed but hilarious (Challenge)\n\n👀My Socials:\n• Twitter: @ignMongo\n• Discord: https://discord.gg/tHW9SV4\n\nThis video is very similar to I Remade Minecraft Mobs into Poppy Playtime but instead, I Remade Every Mob Ultra Realistic in the new minecraft, the wild update 1.19 and remake mobs to keep up with the new Minecraft update. I edit mobs similar to the Warden! This is very similar to the videos by Halvetone and Toiu.\n\n#Minecraft #Mod #MinecraftMod",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/QpWd7J9oT40/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/QpWd7J9oT40/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/QpWd7J9oT40/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/QpWd7J9oT40/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/QpWd7J9oT40/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Mongo",
+            "tags": [
+              "okmongo",
+              "ignmongo",
+              "mongo",
+              "minecraft",
+              "minecraft mod",
+              "i remade every mob in minecraft",
+              "remaking items minecraft",
+              "cursed minecraft",
+              "remaking minecraft",
+              "minecraft cursed textures",
+              "minecraft update",
+              "minecraft cursed mods",
+              "custom mobs minecraft",
+              "minecraft mobs",
+              "i remade",
+              "I Remade Every Mob Realistic In Minecraft",
+              "If I Take Damage Minecraft Gets More Realistic",
+              "realistic minecraft",
+              "minecraft but realistic",
+              "real life minecraft",
+              "real life minecraft mobs",
+              "realistic minecraft texture pack"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "I made every mob REALISTIC in minecraft",
+              "description": "I Made Every Mob REALISTIC in Minecraft\nIn this video, I took it upon myself to remake Minecraft mobs realistic in Minecraft 1.19... This Minecraft video is very cursed but hilarious (Challenge)\n\n👀My Socials:\n• Twitter: @ignMongo\n• Discord: https://discord.gg/tHW9SV4\n\nThis video is very similar to I Remade Minecraft Mobs into Poppy Playtime but instead, I Remade Every Mob Ultra Realistic in the new minecraft, the wild update 1.19 and remake mobs to keep up with the new Minecraft update. I edit mobs similar to the Warden! This is very similar to the videos by Halvetone and Toiu.\n\n#Minecraft #Mod #MinecraftMod"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "5nTyUNcPFkTPht5r_2SFaMlHcZs",
+          "id": "PzUKeGZiEl0",
+          "snippet": {
+            "publishedAt": "2022-07-15T04:00:09Z",
+            "channelId": "UCnyB9MYKRkSFK3IIB32CoVw",
+            "title": "Demi Lovato - SUBSTANCE (Official Video)",
+            "description": "The new album \"HOLY FVCK\" out 8/19 - pre-save now: \nhttps://DemiLovato.lnk.to/HolyFvckps\n\nPre-order \"HOLY FVCK\": \nhttps://DemiLovato.lnk.to/HolyFvckStore\n\nProd Co: BTW productions\nProducer: Brande Bytheway\nDirector: Cody Critcheloe\n\nConnect with Demi:\nSubscribe https://www.youtube.com/user/therealdemilovato\nInstagram http://instagram.com/ddlovato\nTwitter http://twitter.com/ddlovato\nFacebook http://facebook.com/demilovato\nOfficial site http://demilovato.com\nJoin their mailing list to stay up to date http://www.demilovato.com/#mailing-list\n\n#DemiLovato #SUBSTANCE #HOLYFVCK \n\nMusic video by Demi Lovato performing SUBSTANCE. © 2022 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/SryOLj",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PzUKeGZiEl0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PzUKeGZiEl0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PzUKeGZiEl0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "DemiLovatoVEVO",
+            "tags": [
+              "Demi",
+              "Lovato",
+              "SUBSTANCE",
+              "Island",
+              "Records",
+              "Pop"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Demi Lovato - SUBSTANCE (Official Video)",
+              "description": "The new album \"HOLY FVCK\" out 8/19 - pre-save now: \nhttps://DemiLovato.lnk.to/HolyFvckps\n\nPre-order \"HOLY FVCK\": \nhttps://DemiLovato.lnk.to/HolyFvckStore\n\nProd Co: BTW productions\nProducer: Brande Bytheway\nDirector: Cody Critcheloe\n\nConnect with Demi:\nSubscribe https://www.youtube.com/user/therealdemilovato\nInstagram http://instagram.com/ddlovato\nTwitter http://twitter.com/ddlovato\nFacebook http://facebook.com/demilovato\nOfficial site http://demilovato.com\nJoin their mailing list to stay up to date http://www.demilovato.com/#mailing-list\n\n#DemiLovato #SUBSTANCE #HOLYFVCK \n\nMusic video by Demi Lovato performing SUBSTANCE. © 2022 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/SryOLj"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "zYDMCa0qLx8MT7EnIVVyKkbuYqY",
+          "id": "yis52iAkYlQ",
+          "snippet": {
+            "publishedAt": "2022-07-14T16:00:02Z",
+            "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+            "title": "Billie Eilish's Post-Show Beauty Routine | Beauty Secrets | Vogue",
+            "description": "Midway through a world tour that sees her singing to packed stadiums, Billie Eilish sticks to a nighttime beauty routine both for the sake of her skin and her emotional self.\r\n\r\nShop this beauty routine:\r\n\r\nJosie Maran Bear Naked Wipes: https://shop-links.co/chD5XXQPRzP\r\nBiba de Sousa The Zinc Mask: https://fave.co/3yDf7pm\r\nBiba de Sousa Mandelic Cleansing Gel: https://fave.co/3yZVI3i\r\nBiba de Sousa Glycolic Lactic Toner: https://fave.co/3OWdSIV\r\nBiba de Sousa Daily Moisturizer: https://fave.co/3aySnio\r\nBiba de Sousa Cream Barrier: https://fave.co/3AKDSTq\r\nBiba de Sousa Hydrating Toner: https://fave.co/3yzIxou\r\nOlaplex No.6 Bond Smoother: \u200b\u200bhttps://shop-links.co/chD524aiWTc\r\nAquaphor Healing Ointment: https://amzn.to/3PEFTov\r\nTammy Taylor Thymolize Solution: https://amzn.to/3yz6U5x\r\nTammy Taylor Peach Conditioning Cuticle Oil: https://amzn.to/3O3MG9I\r\nLaura Mercier Ambre Vanillé Soufflé Body Crème: https://shop-links.co/chD55QppjM5\r\nEilish Eau de Parfum: https://shop-links.co/chD552eZMgs\r\nHicarer Towel Headbands: https://amzn.to/3IBtSxv\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\nDirector: Gabrielle Reich\r\nEditor: Michael Suyeda\r\nAssociate Producer: Qieara Lesesne\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nTalent Bookers: Phoebe Feinberg, Sergio Kletnoy\r\nPost Production Supervisor: Marco Glinbizzi\r\nPost Production Coordinator: Andrea Farr\r\nAssistant Editor: Andy Morell\r\nColorist: Alexia Salingaros\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yis52iAkYlQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yis52iAkYlQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yis52iAkYlQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/yis52iAkYlQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/yis52iAkYlQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Vogue",
+            "tags": [
+              "beauty",
+              "beauty secrets billie eilish",
+              "bilie eilish beauty",
+              "billie eilish",
+              "billie eilish after show look",
+              "billie eilish beauty",
+              "billie eilish beauty secrets",
+              "billie eilish face wash",
+              "billie eilish gets ready",
+              "billie eilish getting ready",
+              "billie eilish interview",
+              "billie eilish makeup",
+              "billie eilish vogue",
+              "billie eilish washing face",
+              "celebrity",
+              "getting ready vogue",
+              "getting ready vogue beauty secrets",
+              "how to",
+              "how-to",
+              "makeup billie eilish",
+              "vogue",
+              "vogue billie eilish"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Billie Eilish's Post-Show Beauty Routine | Beauty Secrets | Vogue",
+              "description": "Midway through a world tour that sees her singing to packed stadiums, Billie Eilish sticks to a nighttime beauty routine both for the sake of her skin and her emotional self.\r\n\r\nShop this beauty routine:\r\n\r\nJosie Maran Bear Naked Wipes: https://shop-links.co/chD5XXQPRzP\r\nBiba de Sousa The Zinc Mask: https://fave.co/3yDf7pm\r\nBiba de Sousa Mandelic Cleansing Gel: https://fave.co/3yZVI3i\r\nBiba de Sousa Glycolic Lactic Toner: https://fave.co/3OWdSIV\r\nBiba de Sousa Daily Moisturizer: https://fave.co/3aySnio\r\nBiba de Sousa Cream Barrier: https://fave.co/3AKDSTq\r\nBiba de Sousa Hydrating Toner: https://fave.co/3yzIxou\r\nOlaplex No.6 Bond Smoother: \u200b\u200bhttps://shop-links.co/chD524aiWTc\r\nAquaphor Healing Ointment: https://amzn.to/3PEFTov\r\nTammy Taylor Thymolize Solution: https://amzn.to/3yz6U5x\r\nTammy Taylor Peach Conditioning Cuticle Oil: https://amzn.to/3O3MG9I\r\nLaura Mercier Ambre Vanillé Soufflé Body Crème: https://shop-links.co/chD55QppjM5\r\nEilish Eau de Parfum: https://shop-links.co/chD552eZMgs\r\nHicarer Towel Headbands: https://amzn.to/3IBtSxv\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\nDirector: Gabrielle Reich\r\nEditor: Michael Suyeda\r\nAssociate Producer: Qieara Lesesne\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nTalent Bookers: Phoebe Feinberg, Sergio Kletnoy\r\nPost Production Supervisor: Marco Glinbizzi\r\nPost Production Coordinator: Andrea Farr\r\nAssistant Editor: Andy Morell\r\nColorist: Alexia Salingaros\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+            },
+            "defaultAudioLanguage": "en-US"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "uAcdoRjW0N-FVWaw22cPVZCiDvY",
+          "id": "eEFVxI9lqjU",
+          "snippet": {
+            "publishedAt": "2022-07-14T14:55:10Z",
+            "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+            "title": "Everything Goes On - Porter Robinson | Star Guardian 2022 Official Music Video",
+            "description": "Together with some familiar faces, a new generation of Star Guardians ascend to battle a looming threat. But even when confronted with eternal darkness, their hope burns brighter than fear. \n\n“Everything Goes On”\n\nFeatured artist: Porter Robinson\nVocals performed by: Porter Robinson\nWritten by: Porter Robinson, Riot Music Team, Fredrik Johansson, and Hige Driver\n\nVideo created in partnership with Red Dog Culture House\n\n\nLISTEN NOW: https://porterrobinson.com/everythinggoeson  \nSpotify: https://porter.fm/EverythingGoesOn/Spotify\nApple Music: https://porter.fm/EverythingGoesOn/AppleMusic\nAmazon Music: https://porter.fm/EverythingGoesOn/AmazonMusic\nYoutube Music: https://porter.fm/EverythingGoesOn/YouTubeMusic\nDeezer: https://porter.fm/EverythingGoesOn/Deezer\n\nPRODUCTION CREDITS: \n\nProduced by: Porter Robinson and Riot Music Team\nOrchestra Conductor and Contractor: Noah Gladstone\nRecording Engineer: Adam Michalak\nOrchestrator: Nolan Markey\nCopyist: Thanh Tran\nOrchestra Assistant: Sean Gehricke\nMixed by: Tom Norris\nMastered by: Randy Merrill at Sterling Sound\n\nMusicians\nViolin: Mark Robertson (concertmaster), Joel Pargman (principal), Eun Mee Ahn, Sam Fischer, Radu Pieptea, Marisa Sorajja, Daphne Chen, Paul Henning, Cheryl Kim, Paul Cartwright, Shelly Ren, Misha Vayman, Fernando Arroyo Lascura, Ji Young An, Anna Kostyuchek, Ellen Jung, Rhea Fowler, Stephanie Yu, Chris Woods, Hannah Murray, Keyvon Sesar\nViola: Zachary Dellinger (principal), Jonah Sirota, Victor De Almeida, Diana Wade, I-Ting Huang, Linnea Powell, Corinne Sobolewski, Marta Honer\nCello: David Low (principal), Christopher Ahn, Julie Yoo, Leif Woodward, Garik Terzian, Joo Lee, Michael Kaufman, Karen Hall\n\n\nPorter Robinson: https://porterrobinson.com/\n\nLyrics:\n\nDon’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\nSo let’s pretend a little longer\nCause when we’re gone,\nEverything goes on\n\nWell, you were staring at the window\nAnd I said, “I’ll just bring the sea to you”\n\nBut if I was gone tomorrow,\nWon’t the waves crash on?\nIs it selfish that I’m happy,\nAs we pass the setting sun?\nSomeday I’ll be overcast,\nBut you won’t have to cry -\nCause we’ll do the grieving\nWhile I’m by your side\nI said:\n\nDon’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\nSo let’s pretend a little longer\nCause when we’re gone,\nEverything goes on\n\nAnd I’m so scared of getting used to this\nAll the vines that keep you tethered in your room\nSaid, \"I’m sorry that you worried\"\nBut don’t apologize\nI told you to forget me\nBut you stayed by my side\nWhen I said:\n\n\"Don’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\"\nSo let’s pretend a little longer\nAnd when we’re gone,\nEverything goes on\n\nStar Guardian 2022 Event Website: https://starguardian.riotgames.com/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "League of Legends",
+            "tags": [
+              "Riot Games",
+              "Riot",
+              "League of Legends",
+              "League",
+              "LoL",
+              "MOBA",
+              "Star guardian",
+              "star guardian 2022",
+              "star guardian event",
+              "star guardian cinematic",
+              "star guardian kai’sa",
+              "star guardian xayah",
+              "kai’sa",
+              "xayah",
+              "rakan",
+              "sona",
+              "taliyah",
+              "ekko",
+              "nilah",
+              "senna",
+              "orianna",
+              "seraphine",
+              "wild rift",
+              "league of legends",
+              "lol cinematic",
+              "cinematic",
+              "lol champions",
+              "wild rift champions",
+              "new lol skins",
+              "new wild rift skins",
+              "porter robinson",
+              "porter robinson music",
+              "yt:cc=on"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Everything Goes On - Porter Robinson | Star Guardian 2022 Official Music Video",
+              "description": "Together with some familiar faces, a new generation of Star Guardians ascend to battle a looming threat. But even when confronted with eternal darkness, their hope burns brighter than fear. \n\n“Everything Goes On”\n\nFeatured artist: Porter Robinson\nVocals performed by: Porter Robinson\nWritten by: Porter Robinson, Riot Music Team, Fredrik Johansson, and Hige Driver\n\nVideo created in partnership with Red Dog Culture House\n\n\nLISTEN NOW: https://porterrobinson.com/everythinggoeson  \nSpotify: https://porter.fm/EverythingGoesOn/Spotify\nApple Music: https://porter.fm/EverythingGoesOn/AppleMusic\nAmazon Music: https://porter.fm/EverythingGoesOn/AmazonMusic\nYoutube Music: https://porter.fm/EverythingGoesOn/YouTubeMusic\nDeezer: https://porter.fm/EverythingGoesOn/Deezer\n\nPRODUCTION CREDITS: \n\nProduced by: Porter Robinson and Riot Music Team\nOrchestra Conductor and Contractor: Noah Gladstone\nRecording Engineer: Adam Michalak\nOrchestrator: Nolan Markey\nCopyist: Thanh Tran\nOrchestra Assistant: Sean Gehricke\nMixed by: Tom Norris\nMastered by: Randy Merrill at Sterling Sound\n\nMusicians\nViolin: Mark Robertson (concertmaster), Joel Pargman (principal), Eun Mee Ahn, Sam Fischer, Radu Pieptea, Marisa Sorajja, Daphne Chen, Paul Henning, Cheryl Kim, Paul Cartwright, Shelly Ren, Misha Vayman, Fernando Arroyo Lascura, Ji Young An, Anna Kostyuchek, Ellen Jung, Rhea Fowler, Stephanie Yu, Chris Woods, Hannah Murray, Keyvon Sesar\nViola: Zachary Dellinger (principal), Jonah Sirota, Victor De Almeida, Diana Wade, I-Ting Huang, Linnea Powell, Corinne Sobolewski, Marta Honer\nCello: David Low (principal), Christopher Ahn, Julie Yoo, Leif Woodward, Garik Terzian, Joo Lee, Michael Kaufman, Karen Hall\n\n\nPorter Robinson: https://porterrobinson.com/\n\nLyrics:\n\nDon’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\nSo let’s pretend a little longer\nCause when we’re gone,\nEverything goes on\n\nWell, you were staring at the window\nAnd I said, “I’ll just bring the sea to you”\n\nBut if I was gone tomorrow,\nWon’t the waves crash on?\nIs it selfish that I’m happy,\nAs we pass the setting sun?\nSomeday I’ll be overcast,\nBut you won’t have to cry -\nCause we’ll do the grieving\nWhile I’m by your side\nI said:\n\nDon’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\nSo let’s pretend a little longer\nCause when we’re gone,\nEverything goes on\n\nAnd I’m so scared of getting used to this\nAll the vines that keep you tethered in your room\nSaid, \"I’m sorry that you worried\"\nBut don’t apologize\nI told you to forget me\nBut you stayed by my side\nWhen I said:\n\n\"Don’t try to make yourself remember, darling\nDon’t look for me, I’m just a story you’ve been told\"\nSo let’s pretend a little longer\nAnd when we’re gone,\nEverything goes on\n\nStar Guardian 2022 Event Website: https://starguardian.riotgames.com/"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "rdizeFsXnem02dxPZAcobLgd9gM",
+          "id": "DER105jGBP4",
+          "snippet": {
+            "publishedAt": "2022-07-14T17:23:19Z",
+            "channelId": "UCrGjmFNE5m3ffHv-YWE7scw",
+            "title": "Such a great App.",
+            "description": "We love all our Members...even those who observe interesting holidays. #NationalNudeDay \nVisit https://www.onepeloton.com/app for a 30 day free trial of the Peloton App.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DER105jGBP4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DER105jGBP4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DER105jGBP4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Peloton",
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Such a great App.",
+              "description": "We love all our Members...even those who observe interesting holidays. #NationalNudeDay \nVisit https://www.onepeloton.com/app for a 30 day free trial of the Peloton App."
+            },
+            "defaultAudioLanguage": "en"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "LEscJuKIpJCGcvIg5HlpntCCAsA",
+          "id": "yefxpED0fD0",
+          "snippet": {
+            "publishedAt": "2022-07-14T23:42:19Z",
+            "channelId": "UCxCfoSInadl-4i3F70zDt1A",
+            "title": "How Did Ivana Trump Die? New Details Emerge From Her NYC Townhouse | NBC New York",
+            "description": "Ivana Trump, a skier-turned-businesswoman who formed half of a publicity power couple in the 1980s as the first wife of former President Donald Trump and mother of his oldest children, has died in New York City. NBC New York’s Ida Siegal reports.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yefxpED0fD0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yefxpED0fD0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yefxpED0fD0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/yefxpED0fD0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/yefxpED0fD0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "NBC New York",
+            "tags": [
+              "donald trump",
+              "ivanka trump",
+              "trump",
+              "ivana trump"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "How Did Ivana Trump Die? New Details Emerge From Her NYC Townhouse | NBC New York",
+              "description": "Ivana Trump, a skier-turned-businesswoman who formed half of a publicity power couple in the 1980s as the first wife of former President Donald Trump and mother of his oldest children, has died in New York City. NBC New York’s Ida Siegal reports."
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "Fg9muzhreKlLDP3LBRjTQV7l0oE",
+          "id": "LQ6m3fuv0Qk",
+          "snippet": {
+            "publishedAt": "2022-07-14T16:00:05Z",
+            "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+            "title": "2022 XXL Freshman Cypher With BabyTron, Cochise, Babyface Ray and Kali",
+            "description": "Watch the 2022 XXL Freshman cypher featuring Kali, Cochise, Babyface Ray and BabyTron.\n\nBeat for cypher produced by Wheezy Outta Here\nhttps://www.instagram.com/wheezy/\n\nVideo directed by Travis Satten (travissatten.com)\nVideo produced by Back 2 One Studios \n\nBuy the 2022 XXL Freshman Class magazine and merch here: https://shop.xxlmag.com/p/xxl-magazine-freshman-class-2022-issue\n\nVisit the 2022 XXL Freshman Class official page: https://www.xxlmag.com/freshman/#xxlfreshmanfreestyle \n\n#XXLFreshmen #XXLCyphers #Cyphers #2022XXLFreshman #Kali #Cochise #BabyfaceRay #BabyTron #WheezyOuttaHere \n\nSubscribe to XXL → http://bit.ly/subscribe-xxl \n\nGo here → http://www.xxlmag.com/\nXXL on Twitter → https://twitter.com/XXL\nXXL on Instagram → https://instagram.com/xxl/\nXXL on Facebook → https://www.facebook.com/xxlmag",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LQ6m3fuv0Qk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LQ6m3fuv0Qk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LQ6m3fuv0Qk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/LQ6m3fuv0Qk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/LQ6m3fuv0Qk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "XXL",
+            "tags": [
+              "2022 xxl freshman",
+              "2022 xxl freshman cypher",
+              "kali",
+              "babytron",
+              "babyface ray",
+              "cochise",
+              "cypher",
+              "xxl cypher",
+              "rapper"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "2022 XXL Freshman Cypher With BabyTron, Cochise, Babyface Ray and Kali",
+              "description": "Watch the 2022 XXL Freshman cypher featuring Kali, Cochise, Babyface Ray and BabyTron.\n\nBeat for cypher produced by Wheezy Outta Here\nhttps://www.instagram.com/wheezy/\n\nVideo directed by Travis Satten (travissatten.com)\nVideo produced by Back 2 One Studios \n\nBuy the 2022 XXL Freshman Class magazine and merch here: https://shop.xxlmag.com/p/xxl-magazine-freshman-class-2022-issue\n\nVisit the 2022 XXL Freshman Class official page: https://www.xxlmag.com/freshman/#xxlfreshmanfreestyle \n\n#XXLFreshmen #XXLCyphers #Cyphers #2022XXLFreshman #Kali #Cochise #BabyfaceRay #BabyTron #WheezyOuttaHere \n\nSubscribe to XXL → http://bit.ly/subscribe-xxl \n\nGo here → http://www.xxlmag.com/\nXXL on Twitter → https://twitter.com/XXL\nXXL on Instagram → https://instagram.com/xxl/\nXXL on Facebook → https://www.facebook.com/xxlmag"
+            }
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "YsmAbwHvruy3h0fSOQNh7YjONIw",
+          "id": "oOOLMY5nRWA",
+          "snippet": {
+            "publishedAt": "2022-07-14T17:05:16Z",
+            "channelId": "UCPRVQWJCA-li5Z01AlDRuSA",
+            "title": "Rooga \"You Gotta See Me\" `(Official Music Video)",
+            "description": "Song Title: You Gotta See Me\nArtist: Rooga \nCopyrights: Rooga\n\nWriter:Rooga\nLyrics: 100% Music: 100%\nEmail: Roogabookings3@gmail.com \nComposer/Producer: Steery Beatz, Favor Beatz, ThatBoyDaymon, and Higherside\n\nShot by: @Billy Kauck \nDistributor: Universal Music Group (UMG)\nInstagram: Jhe_Rooga\nTwitter: Real_Rooga\n\nStream “You Gotta See Me” Now\n\nhttps://rooga.lnk.to/yougottaseeme",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oOOLMY5nRWA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oOOLMY5nRWA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oOOLMY5nRWA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/oOOLMY5nRWA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/oOOLMY5nRWA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "JHE Rooga",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Rooga \"You Gotta See Me\" `(Official Music Video)",
+              "description": "Song Title: You Gotta See Me\nArtist: Rooga \nCopyrights: Rooga\n\nWriter:Rooga\nLyrics: 100% Music: 100%\nEmail: Roogabookings3@gmail.com \nComposer/Producer: Steery Beatz, Favor Beatz, ThatBoyDaymon, and Higherside\n\nShot by: @Billy Kauck \nDistributor: Universal Music Group (UMG)\nInstagram: Jhe_Rooga\nTwitter: Real_Rooga\n\nStream “You Gotta See Me” Now\n\nhttps://rooga.lnk.to/yougottaseeme"
+            },
+            "defaultAudioLanguage": "en"
+          }
+        }
+      ],
+      "nextPageToken": "CBkQAA",
+      "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+      }
+    }
+  ]
+    
+}
